@@ -32,7 +32,7 @@ author :
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 
-production_url : https://jagterberg.github.io/website
+production_url : https://jagterberg.github.io
 
 
 
@@ -102,7 +102,7 @@ JB :
 
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 
-  BASE_PATH : https://jagterberg.github.io/website
+  BASE_PATH : https://jagterberg.github.io
 
 
 
