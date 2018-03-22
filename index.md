@@ -23,4 +23,6 @@ be useful for practitioners interested in k-medoids or spectral methods. My hope
 to provide more context-specific dissimilarity metrics than [Gower's distance](https://www.r-bloggers.com/clustering-mixed-data-types-in-r/),
 which is what is typically used within the unsupervised learning community.
 
+Finally, in my spare time, I like to read good fantasy and play jazz piano.  In Madison, I regularly played piano with 
+[The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
 
