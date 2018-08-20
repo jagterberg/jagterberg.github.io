@@ -5,9 +5,9 @@ description: Graduate Student at Johns Hopkins
 ---
 <a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
             <a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
-            <div id="hide_email">
+            
             Email: <code>jagterb1@jhu.edu</code><br/>
-	   </div>
+	 
  <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
 	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
               title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
