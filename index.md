@@ -6,12 +6,6 @@ description: Graduate Student at Johns Hopkins
 <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
 	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
               title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
-  
-[Teaching](/pages/teaching.html)
-[github](https://github.com/jagterberg)
-[cv](assets/JoshuaAgterbergCV.pdf)
-[LinkedIn](https://www.linkedin.com/in/joshuaagterberg/).
-
 
 Hello!I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. I am broadly interested in computational statistics (see [here](/pages/compstatvsml.html) for why I do not say Machine Learning). 
 Recently, I have become interested in algorithms and statistical models for networks thanks to [Carey Priebe](https://www.ams.jhu.edu/~priebe/)
