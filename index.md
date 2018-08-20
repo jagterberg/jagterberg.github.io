@@ -3,25 +3,18 @@ layout: page
 title: Joshua Agterberg
 description: Graduate Student at Johns Hopkins
 ---
-<p align="center">
 <a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
             <a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
             <div id="hide_email">
             Email: <code>jagterb1@jhu.edu</code><br/>
 	   </div>
-</p>
-<div class="container">
-       <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
+ <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
 	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
               title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
-</div>
 
 
 
-
-
-
-Hello!I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. I am broadly interested in computational statistics (see [here](/pages/compstatvsml.html) for why I do not say Machine Learning). 
+Hello! I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. I am broadly interested in computational statistics (see [here](/pages/compstatvsml.html) for why I do not say Machine Learning). 
 Recently, I have become interested in algorithms and statistical models for networks thanks to [Carey Priebe](https://www.ams.jhu.edu/~priebe/)
 and his graduate Statistical Theory class. Eventually, I am hoping to work in this area for my PhD in Statistics.  
 
