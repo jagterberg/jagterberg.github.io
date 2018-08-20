@@ -3,28 +3,17 @@ layout: page
 title: Joshua Agterberg
 description: Graduate Student at Johns Hopkins
 ---
-
-<div class="container">
-
-    <div class="row-fluid">
-	<div class="span3">
-           <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
-	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
-              title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
-        </div>
-
-	<div class="span5">
-            <a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
+<p align="center">
+<a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
             <a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
             <div id="hide_email">
             Email: <code>jagterb1@jhu.edu</code><br/>
-
-            </div>
-        </div>
-    </div>   
-
-
+<div class="container">
+       <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
+	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
+              title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
 </div>
+</p>
 
 
 
