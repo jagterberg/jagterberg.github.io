@@ -3,9 +3,32 @@ layout: page
 title: Joshua Agterberg
 description: Graduate Student at Johns Hopkins
 ---
-<a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+	<div class="span5">
+        Joshua Agterberg<br/>
+            <a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
+            <a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
+            <div id="hide_email">
+            Email: <code>jagt</code><b>I</b><code>erb</code><b>don't</b><code>@</code><b>want</b><code>j</code><b>spam!
+            </b><code>hu</code><b>So</b><code>.</code><b>please</b><code>edu</code><br/>
+            </div>
+
+        </div>
+        <div class="span5">
+           <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
 	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
               title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
 
 Hello!I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. I am broadly interested in computational statistics (see [here](/pages/compstatvsml.html) for why I do not say Machine Learning). 
 Recently, I have become interested in algorithms and statistical models for networks thanks to [Carey Priebe](https://www.ams.jhu.edu/~priebe/)
@@ -25,4 +48,6 @@ which is what is typically used within the unsupervised learning community.
 
 Finally, in my spare time, I like to read good fantasy and play jazz piano.  In Madison, I regularly played piano with 
 [The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
+
+
 
