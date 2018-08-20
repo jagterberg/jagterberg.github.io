@@ -7,7 +7,13 @@ Here is a link to my [Teaching](/pages/teaching.html)!
 
 <div class="row-fluid">
     <div class="span5">
-       Hello!  I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. 
+    <a href="../assets/pics/Inked_joshua_agterberg_8-20.jpg">
+        <img src="../assets/pics/Inked_joshua_agterberg_8-20.jpg"
+              title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
+    </div>
+</div>
+
+I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. 
 Please feel free to peruse my [github](https://github.com/jagterberg), my [cv](assets/JoshuaAgterbergCV.pdf), or my
 [LinkedIn](https://www.linkedin.com/in/joshuaagterberg/).
 
@@ -29,11 +35,3 @@ which is what is typically used within the unsupervised learning community.
 
 Finally, in my spare time, I like to read good fantasy and play jazz piano.  In Madison, I regularly played piano with 
 [The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
-    </div>
-    <div class="span2">
-    <a href="../assets/pics/Inked_joshua_agterberg_8-20.jpg">
-        <img src="../assets/pics/Inked_joshua_agterberg_8-20.jpg"
-              title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
-    </div>
-</div>
-
