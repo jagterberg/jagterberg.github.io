@@ -16,9 +16,7 @@ description: Graduate Student at Johns Hopkins
             <a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
             <a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
             <div id="hide_email">
-            Email: <code>jagt</code><b>I</b><code>erb1</code><b>don't</b><code>@</code><b>want</b><code>j</code><b>spam!
-            </b><code>h</code><b>So</b><code>u</code><b>please</b><code>.</code><b>leave
-            </b><code>sc</code><b>me</b><code>e</code><b>alone</b><code>d</code><b>!</b><code>u</code><br/>
+            Email: <code>jagterb1@jhu.edu</code><br/>
             </div>
         </div>
     </div>   
