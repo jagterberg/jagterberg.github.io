@@ -17,16 +17,13 @@ description: Graduate Student at Johns Hopkins
             </b><code>h</code><b>So</b><code>u</code><b>please</b><code>.</code><b>leave
             </b><code>sc</code><b>me</b><code>e</code><b>alone</b><code>d</code><b>!</b><code>u</code><br/>
             </div>
-
         </div>
         <div class="span3">
            <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
 	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
               title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
-            </div>
-        </div>
-        
-    </div>
+         </div>
+    </div>   
 </div>
 
 
