@@ -3,15 +3,8 @@ layout: page
 title: Joshua Agterberg
 description: Graduate Student at Johns Hopkins
 ---
+<IMG SRC="/assets/pics/Inked_joshua_agterberg_8-20.jpg" ALIGN=”left” HSPACE=”50” VSPACE=”50”/>
 Here is a link to my [Teaching](/pages/teaching.html)!
-
-<div class="row-fluid">
-    <div class="span5">
-    <a href="../assets/pics/Inked_joshua_agterberg_8-20.jpg">
-        <img src="../assets/pics/Inked_joshua_agterberg_8-20.jpg"
-              title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
-    </div>
-</div>
 
 I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. 
 Please feel free to peruse my [github](https://github.com/jagterberg), my [cv](assets/JoshuaAgterbergCV.pdf), or my
