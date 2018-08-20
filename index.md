@@ -8,17 +8,18 @@ description: Graduate Student at Johns Hopkins
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-	<div class="span5">
+	<div class="span4">
         Joshua Agterberg<br/>
             <a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
             <a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
             <div id="hide_email">
-            Email: <code>jagt</code><b>I</b><code>erb</code><b>don't</b><code>@</code><b>want</b><code>j</code><b>spam!
-            </b><code>hu</code><b>So</b><code>.</code><b>please</b><code>edu</code><br/>
+            Email: <code>jagt</code><b>I</b><code>erb1</code><b>don't</b><code>@</code><b>want</b><code>j</code><b>spam!
+            </b><code>h</code><b>So</b><code>u</code><b>please</b><code>.</code><b>leave
+            </b><code>sc</code><b>me</b><code>e</code><b>alone</b><code>d</code><b>!</b><code>u</code><br/>
             </div>
 
         </div>
-        <div class="span5">
+        <div class="span3">
            <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
 	<img src="assets/pics/Inked_joshua_agterberg_8-20.jpg"
               title="Joshua Agterberg" alt="Joshua Agterberg"/></a>
