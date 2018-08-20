@@ -5,8 +5,6 @@ description: Graduate Student at Johns Hopkins
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
-
     <div class="row-fluid">
 	<div class="span5">
            <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
@@ -24,7 +22,11 @@ description: Graduate Student at Johns Hopkins
             </div>
         </div>
     </div>   
+
+
 </div>
+
+
 
 
 
