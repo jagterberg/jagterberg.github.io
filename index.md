@@ -17,7 +17,6 @@ description: Graduate Student at Johns Hopkins
             </b><code>h</code><b>So</b><code>u</code><b>please</b><code>.</code><b>leave
             </b><code>sc</code><b>me</b><code>e</code><b>alone</b><code>d</code><b>!</b><code>u</code><br/>
             </div>
-	    Test: 1234
         </div>
         <div class="span3">
            <a href="assets/pics/Inked_joshua_agterberg_8-20.jpg">
