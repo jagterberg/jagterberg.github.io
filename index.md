@@ -9,12 +9,14 @@ description: Graduate Student at Johns Hopkins
 		</div>
 	</div>
 	<div class = "span4">
+		<div style="text-align:right">
 		<a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
           	<a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
 		Email: <code>jagterb1@jhu.edu</code><br/>
-		<a href = "/assets/JoshuaAgterbergCV.pdf>CV</a><br/>
+		<a href="{{ BASE_PATH }}/assets/JoshuaAgterbergCV.pdf">CV</a><br/>
 		<a href = "https://github.com/jagterberg">github</a><br/>
-		<a href = "https://www.linkedin.com/in/joshuaagterberg/">LinkedIn</a><br/>		
+		<a href = "https://www.linkedin.com/in/joshuaagterberg/">LinkedIn</a><br/>
+		</div>		
 	</div>
 </div>
 
