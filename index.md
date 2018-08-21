@@ -10,9 +10,10 @@ description: Graduate Student at Johns Hopkins
 	</div>
 	<div class = "span4">
 		<div style="text-align:right">
-		<a href="https://engineering.jhu.edu/ams/">Applied Mathematics and Statistics</a><br/>
-          	<a href="https://www.jhu.edu/">Johns Hopkins</a><br/>
-		Email: <code>jagterb1@jhu.edu</code><br/>
+		<a href="https://engineering.jhu.edu/ams/">Department of Applied Mathematics and Statistics</a><br/>
+		<a href="https://engineering.jhu.edu/">Whiting School of Engineering</a><br/>
+          	<a href="https://www.jhu.edu/">Johns Hopkins University</a><br/>
+		<br/>
 		<a href="{{ BASE_PATH }}/assets/JoshuaAgterbergCV.pdf">CV</a><br/>
 		<a href = "https://github.com/jagterberg">github</a><br/>
 		<a href = "https://www.linkedin.com/in/joshuaagterberg/">LinkedIn</a><br/>
@@ -22,9 +23,8 @@ description: Graduate Student at Johns Hopkins
 
 <br/>
 <br/>
-<br/>
 
-Hello! I am a graduate student at Johns Hopkins working on my Master's in Applied Mathematics and Statistics. 
+Hello! I am a graduate student at Johns Hopkins working on my master's in applied mathematics and statistics. 
 I am broadly interested in computational statistics.  Recently, I have become interested in algorithms and 
 statistical models for networks thanks to [Carey Priebe](https://www.ams.jhu.edu/~priebe/) and his graduate 
 Statistical Theory class. I am hoping to work in this area during my PhD in Statistics.  
