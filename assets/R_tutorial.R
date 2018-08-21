@@ -325,14 +325,105 @@ alpha_t_p_value
 SSR / TSS
 1 - MSE/(TSS/(n-1))n
 
+#----------------- Typical R Linear Regression Code ------------
+rm(list = ls())
+#Useful R code:
+getwd()
+#set this to where your training and testing data are stored
+setwd('./School/Teaching/FM_Orientation_2018/all') 
+#code taken from: https://www.kaggle.com/notaapple/detailed-exploratory-data-analysis-using-r
 
+
+train <- read.csv("train.csv")
+library(data.table)
+train <- data.table(train)
+na_vals <- sapply(train,function(x) {
+  return(!any(is.na(x)))
+})
+train <- train[,..na_vals]
+
+
+#-- cleaned code --
+names(train)
+summary(train)
+train[,Id:= NULL]
+
+#split to train and test
+set.seed(4443)
+training <- sample(c(1:nrow(train)),floor(2/3*nrow(train)))
+testing <- setdiff(c(1:nrow(train)),training)
+train[, `:=` (Utilities = NULL
+            ,Condition2 = NULL
+            ,RoofStyle = NULL
+            ,RoofMatl = NULL
+            ,ExterCond = NULL
+            ,HeatingQC  = NULL
+            )]
+test <- train[testing]
+train <- train[training]
+
+
+
+train <- as.data.frame(unclass(train))
+test <- as.data.frame(unclass(test))
+#run a linear regression:
+lm_basic <- lm(SalePrice~.,data=train)
+plot(lm_basic)
 
 
 #------------------------------- ML Concepts--------------------------------
-rm(list = ls())
-#Lasso and Ridge regression
-#ToDo
+#stepwise regression:
+library(MASS)
+step <- stepAIC(lm_basic)
+summary(step)
+plot(step)
 
+#check the AIC:
+AIC(lm_basic)
+AIC(step)
+
+#ridge regression
+library(glmnet)
+library(glmnetUtils)
+
+lambdas <- 10^seq(3, -2, by = -.1)
+
+#need to turn back to data.frame
+train <- as.data.frame(unclass(train))
+test <- as.data.frame(unclass(test))
+fit <- glmnet(SalePrice~.,data=train, alpha = 0, lambda = lambdas)
+summary(fit)
+ridge <- cv.glmnet(SalePrice~.,data=train, alpha = 0, lambda = lambdas)
+
+
+#lasso
+fit <- glmnet(SalePrice~.,data=train, alpha = 1, lambda = lambdas)
+summary(fit)
+lasso <- cv.glmnet(SalePrice~.,data=train, alpha = 1, lambda = lambdas)
+
+
+#random forest for the kicks:
+library(randomForest)
+library(caret)
+rf <- randomForest(SalePrice~.,data=train)
+res <- tuneRF(train[,names(train)[!names(train)%in%"SalePrice"]],train$SalePrice)
+mtry_opt <- res[,"mtry"][which.min(res[,"OOBError"])]
+rf <- randomForest(SalePrice~.,data=train,mtry = mtry_opt,ntree=1000)
+
+models <- list(lm_basic,step,ridge,lasso,rf)
+
+getBestModel <- function(models,tests = test) {
+  mse <- unlist(lapply(models,function(x) {
+    predicted <- predict(x,tests)
+    return( sum((predicted - tests$SalePrice)^2) )
+  }))
+  
+  return(models[[which.min(mse)]])
+}
+
+bestModel <- getBestModel(models)
+summary(bestModel)
+bestModel
 
 #-------------dimensionality reduction--------------
 rm(list = ls())
