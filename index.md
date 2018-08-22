@@ -24,10 +24,9 @@ description: Graduate Student at Johns Hopkins
 <br/>
 <br/>
 
-Hello! I am a graduate student at Johns Hopkins working on my master's in applied mathematics and statistics. 
-I am broadly interested in computational statistics.  Recently, I have become interested in algorithms and 
-statistical models for networks thanks to [Carey Priebe](https://www.ams.jhu.edu/~priebe/) and his graduate 
-Statistical Theory class. I am hoping to work in this area during my PhD in Statistics.  
+Hello! I am a graduate student at Johns Hopkins working on my master's in applied mathematics and statistics.
+I am advised by Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).  I am broadly interested in algorithms 
+and statistical models for networks, and I am planning to work in this area during my PhD in Statistics.  
 
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).
@@ -36,10 +35,11 @@ As of now, we are finishing up a [project](https://www.soa.org/pd/events/2017/pr
 involving the use of k-medoids clustering on survey data when variables are all categorical.  
 
 This work has led me to develop my [catDist](https://github.com/jagterberg/catDist) R package for dissimilarity
-indices when data are all or almost all categorical. Although the package is still in development, it may still
-be useful for practitioners interested in k-medoids or spectral methods. My hope is that the package will be able 
-to provide more context-specific dissimilarity metrics than [Gower's distance](https://www.r-bloggers.com/clustering-mixed-data-types-in-r/),
-which is what is typically used within the unsupervised learning community.
+indices when data are all or almost all categorical. Originally, I intended for the package to provide more context-specific 
+dissimilarity metrics than [Gower's distance](https://www.r-bloggers.com/clustering-mixed-data-types-in-r/), but I 
+recently discovered the [nomclust R package](https://cran.r-project.org/web/packages/nomclust/index.html) which provides
+similar functionality to <code>catDist</code>.  However, the main difference is that many of the algorithms in <code>catDist</code> are written
+in C (and not R), which greatly speeds things up. For now, practitioners interested in k-medoids or spectral methods can use <code>nomclust</code>.  
 
 Finally, in my spare time, I like to read good fantasy and play jazz piano.  In Madison, I regularly played piano with 
 [The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
