@@ -37,7 +37,7 @@ involving the use of k-medoids clustering on survey data when variables are all 
 This work has led me to develop my [catDist](https://github.com/jagterberg/catDist) R package for dissimilarity
 indices when data are all or almost all categorical. Originally, I intended for the package to provide more context-specific 
 dissimilarity metrics than [Gower's distance](https://www.r-bloggers.com/clustering-mixed-data-types-in-r/), but I 
-recently discovered the [nomclust R package](https://cran.r-project.org/web/packages/nomclust/index.html) which provides
+recently discovered the [nomclust](https://cran.r-project.org/web/packages/nomclust/index.html) R package which provides
 similar functionality to <code>catDist</code>.  However, the main difference is that many of the algorithms in <code>catDist</code> are written
 in C (and not R), which greatly speeds things up. For now, practitioners interested in k-medoids or spectral methods can use <code>nomclust</code>.  
 
