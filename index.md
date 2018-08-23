@@ -28,6 +28,10 @@ Hello! I am a graduate student at Johns Hopkins working on my master's in applie
 I am advised by Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).  I am broadly interested in algorithms 
 and statistical models for networks, and I am planning to work in this area during my PhD in Statistics.  
 
+This summer, I was a research assistant for Carey Priebe, and I attended the [D3M](https://www.darpa.mil/program/data-driven-discovery-of-models)
+workshop in Arlington, VA developing Python code for graph-based problems.  In addition, I have helped develop the [iGraphMatch](https://github.com/dpmcsuss/iGraphMatch)
+R package, and I am currently working on investigating the statistical properties of [Vertex Nomination](https://arxiv.org/abs/1711.05610).
+
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).
 During my senior year, I started some research examining the possibilities of unsupervised learning for insurance data.
@@ -39,9 +43,10 @@ indices when data are all or almost all categorical. Originally, I intended for 
 dissimilarity metrics than [Gower's distance](https://www.r-bloggers.com/clustering-mixed-data-types-in-r/), but I 
 recently discovered the [nomclust](https://cran.r-project.org/web/packages/nomclust/index.html) R package which provides
 similar functionality to <code>catDist</code>.  However, the main difference is that many of the algorithms in <code>catDist</code> are written
-in C (and not R), which greatly speeds things up. For now, practitioners interested in k-medoids or spectral methods can use <code>nomclust</code>.  
+in C (and not R), which greatly speeds things up. The code is still in development, so practitioners interested in
+K-medoids or spectral clustering can use <code>nomclust</code>.
 
-Finally, in my spare time, I like to read good fantasy and play jazz piano.  In Madison, I regularly played piano with 
+Finallyh, in my spare time, I like to read good fantasy and play jazz piano.  At UW-Madison, I regularly played piano with 
 [The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
 
 
