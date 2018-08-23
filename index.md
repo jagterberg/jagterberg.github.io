@@ -46,7 +46,7 @@ similar functionality to <code>catDist</code>.  However, the main difference is 
 in C (and not R), which greatly speeds things up. The code is still in development, so practitioners interested in
 K-medoids or spectral clustering can use <code>nomclust</code>.
 
-Finallyh, in my spare time, I like to read good fantasy and play jazz piano.  At UW-Madison, I regularly played piano with 
+Finally, in my spare time, I like to read good fantasy and play jazz piano.  At UW-Madison, I regularly played piano with 
 [The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
 
 
