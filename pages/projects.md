@@ -1,3 +1,7 @@
+---
+layout: page
+title: Projects
+---
 Some projects I have worked on include:
 
 [Indefinite Procrustes Analysis](../assets/procrustes_simulation.html)
