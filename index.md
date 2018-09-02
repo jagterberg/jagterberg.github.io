@@ -26,7 +26,8 @@ description: Graduate Student at Johns Hopkins
 
 Hello! I am a graduate student at Johns Hopkins working on my master's in applied mathematics and statistics.
 I am advised by Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).  I am broadly interested in algorithms 
-and statistical models for networks, and I am planning to work in this area during my PhD in Statistics.  
+and statistical models for networks, and I am planning to work in this area during my PhD in Statistics.  You can 
+read about my projects [here](/pages/projects.html).
 
 This summer, I was a research assistant for Carey Priebe, and I attended the [D3M](https://www.darpa.mil/program/data-driven-discovery-of-models)
 workshop in Arlington, VA developing Python code for graph-based problems.  In addition, I have helped develop the [iGraphMatch](https://github.com/dpmcsuss/iGraphMatch)

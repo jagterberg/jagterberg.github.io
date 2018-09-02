@@ -330,7 +330,8 @@ rm(list = ls())
 #Useful R code:
 getwd()
 #set this to where your training and testing data are stored
-setwd('./School/Teaching/FM_Orientation_2018/all') 
+#setwd('./School/Teaching/FM_Orientation_2018/all') 
+setwd('./all')
 #code taken from: https://www.kaggle.com/notaapple/detailed-exploratory-data-analysis-using-r
 
 
