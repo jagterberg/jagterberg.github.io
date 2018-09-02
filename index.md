@@ -37,15 +37,13 @@ I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).
 During my senior year, I started some research examining the possibilities of unsupervised learning for insurance data.
 As of now, we are finishing up a [project](https://www.soa.org/pd/events/2017/predictive-analytics-symposium/pd-2017-09-predictive-analytics-session-010.pdf) 
-involving the use of k-medoids clustering on survey data when variables are all categorical.  
-
-This work has led me to develop my [catDist](https://github.com/jagterberg/catDist) R package for dissimilarity
-indices when data are all or almost all categorical. Originally, I intended for the package to provide more context-specific 
-dissimilarity metrics than [Gower's distance](https://www.r-bloggers.com/clustering-mixed-data-types-in-r/), but I 
-recently discovered the [nomclust](https://cran.r-project.org/web/packages/nomclust/index.html) R package which provides
-similar functionality to <code>catDist</code>.  However, the main difference is that many of the algorithms in <code>catDist</code> are written
-in C (and not R), which greatly speeds things up. The code is still in development, so practitioners interested in
-K-medoids or spectral clustering can use <code>nomclust</code>.
+involving the use of k-medoids clustering on survey data when variables are all categorical.  This work has led me to develop my
+[<code>catDist</code>](https://github.com/jagterberg/catDist) R package for dissimilarity
+indices when data are all or almost all categorical.  Currently, development is halted, but 
+practitioners interested in K-medoids or spectral clustering can use [<code>nomclust</code>](https://cran.r-project.org/web/packages/nomclust/index.html)
+which provides similar functionality.  (The main difference between <code>nomclust</code> and <code>catDist</code>
+is that many of the algorithms in <code>catDist</code> are written
+in C (and not R), which greatly speeds things up.)
 
 Finally, in my spare time, I like to read good fantasy and play jazz piano.  At UW-Madison, I regularly played piano with 
 [The Left Field Quartet](https://leftfieldquartet.bandcamp.com/releases).  
