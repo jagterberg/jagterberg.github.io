@@ -2,19 +2,19 @@
 layout: page
 title: Joshua Agterberg's Teaching
 ---
-<h3>Instructor (JHU)</h3>
+<h4>Instructor (JHU)</h4>
 
 [Financial Mathematics Orientation 2018](fm2018.html)
 
 
-<h3>Teaching Assistant (JHU)</h3>
+<h34>Teaching Assistant (JHU)</h4>
 
 553.762 Nonlinear Optimization II (Spring 2019)
 
 553.730 Statistical Theory (Fall 2018)
 
 
-<h3>Grader (Wisconsin)</h3>
+<h4>Grader (Wisconsin)</h4>
 
 ActSci 655 Health Analytics (Spring 2017)
 
