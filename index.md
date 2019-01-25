@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joshua Agterberg
+title: 
 description: Graduate Student at Johns Hopkins
 ---
 <div class="container">

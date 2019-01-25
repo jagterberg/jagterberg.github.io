@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joshua Agterberg's Teaching
+title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
