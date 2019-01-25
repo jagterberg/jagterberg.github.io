@@ -7,7 +7,7 @@ title: Joshua Agterberg's Teaching
 [Financial Mathematics Orientation 2018](fm2018.html)
 
 
-<h34>Teaching Assistant (JHU)</h4>
+<h4>Teaching Assistant (JHU)</h4>
 
 553.762 Nonlinear Optimization II (Spring 2019)
 
