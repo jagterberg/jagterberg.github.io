@@ -24,8 +24,8 @@ description: Graduate Student at Johns Hopkins
 <br/>
 <br/>
 
-Hello! I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).  
-I am broadly interested in algorithms and statistical models for networks and random matrices.
+Hello! I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor 
+[Carey Priebe](https://www.ams.jhu.edu/~priebe/). I am broadly interested in algorithms and statistical models for networks and random matrices.
 You can read about some of my projects [here](/pages/projects.html).
 
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
