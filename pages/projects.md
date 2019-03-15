@@ -12,10 +12,10 @@ with Fanghao Zhong, Richard Crabb, and Margie Rosenberg</li>
 
 <h4>Code</h4>
 <ul>
-<li>[Indefinite Procrustes Analysis](../assets/procrustes_simulation.html)</li>
-<li>[D3M](https://github.com/neurodata/primitives-interfaces)</li>
-<li>The <code>iGraphMatch</code> package [<code>splrMatrix</code> class](https://github.com/dpmcsuss/iGraphMatch/tree/dev_splr)</li>
-<li>The [<code>catDist</code> R package](https://github.com/jagterberg/catDist)</li>
+<li><a href="../assets/procrustes_simulation.html">Indefinite Procrustes Analysis</a></li>
+<li><a href="https://github.com/neurodata/primitives-interfaces">D3M</li>
+<li>The <code>iGraphMatch</code> package <a href="https://github.com/dpmcsuss/iGraphMatch/tree/dev_splr"><code>splrMatrix</code> class</a></li>
+<li>The <a href="https://github.com/jagterberg/catDist"><code>catDist</code> R package</a></li>
 </ul>
 
 <h4>Ongoing Projects</h4>
