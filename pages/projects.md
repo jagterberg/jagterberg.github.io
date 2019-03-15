@@ -3,12 +3,10 @@ layout: page
 title: Projects
 ---
 <h4>Publications</h4>
-<dl>
-<dt><i>Vertex Nomination, and an Adversary, and Countering that Adversary</i> (in progress)</dt>
-<dd>with Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski</dd>
-<dt><i>A Clustering Method for Categorical Variables to Predict High Health Expenditures</i> (in progress)</dt>
-<dd> with Fanghao Zhong, Richard Crabb, and Margie Rosenberg</dd>
-</dl>
+<ul>
+<li>Joshua Agterberg, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, Vince Lyzinski, <i>Vertex Nomination, an Adversary, and Countering that Adversary</i>, in progress.</li>, 
+<li>Joshua Agterberg, Fanghao Zhong, Richard Crabb, Margie Rosenberg, <i>A Clustering Method for Categorical Variables to Predict High Health Expenditures</i>, in progress.</li>
+</ul>
 
 <h4>Code</h4>
 <ul>
