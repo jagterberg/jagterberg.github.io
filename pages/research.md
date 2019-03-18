@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
 <h4>Publications</h4>
 <ul>
