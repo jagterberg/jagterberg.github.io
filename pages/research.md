@@ -7,8 +7,8 @@ title: Research
 <li><b>Vertex Nomination, an Adversary, and Countering that Adversary</b> <br />
 <i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, in progress.
 </li><br />
-<li><b>A Clustering Method for Categorical Variables to Predict High Health Expenditures</b><br />  
-<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, in progress.<br /> 
+<li><b>A Clustering Method For Categorical Variables to Identify Profiles of Individuals With High Health Expenditures</b><br />  
+<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Submitted.<br /> 
 </li>
 </ul>
 
