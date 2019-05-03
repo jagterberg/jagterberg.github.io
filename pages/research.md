@@ -4,7 +4,7 @@ title: Research
 ---
 <h4>Publications</h4>
 <ul>
-<li><b>Vertex Nomination, an Adversary, and Countering that Adversary</b> <br />
+<li><b>Vertex Nomination, Consistent Estimation, and Adversarial Contamination</b> <br />
 <i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, in progress.
 </li><br />
 <li><b>A Clustering Method For Categorical Variables to Identify Profiles of Individuals With High Health Expenditures</b><br />  
