@@ -4,10 +4,14 @@ title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
+Financial Mathematics Orientation 2019
+
 [Financial Mathematics Orientation 2018](fm2018.html)
 
 
 <h4>Teaching Assistant (JHU)</h4>
+
+553.310 Probability and Statistics (Summer 2019)
 
 553.762 Nonlinear Optimization II (Spring 2019)
 
