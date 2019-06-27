@@ -5,13 +5,18 @@ title: Research
 <h4>Publications</h4>
 <ul>
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Contamination</b> <br />
-<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Submitted. <br />
+<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Submitted, 2019. <br />
 <a href="https://arxiv.org/abs/1905.01776">[arXiv]</a>.
 </li><br />
+<li><b>Social Determinant-Based Profiles of US Adults Used to Identify Groups with the Highest and Lowest Health Expenditures
+</b> <br />
+Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Submitted, 2019.
+</li><br />
 <li><b>A Clustering Method For Categorical Variables to Identify Profiles of Individuals With High Health Expenditures</b><br />  
-<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Submitted.<br /> 
+<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Submitted, 2019.<br /> 
 </li>
 </ul>
+
 
 <h4>Code</h4>
 <ul>
