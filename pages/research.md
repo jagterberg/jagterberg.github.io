@@ -23,6 +23,6 @@ title: Research
 
 <h4>Ongoing Projects</h4>
 <ul>
-<li>Theory for the generalized random dot product graph</li>
-<li>Theory for random low-rank matrices</li>
+<li>Nonparametric hypothesis testing for the generalized random dot product graph</li>
+<li>Theory for random low-rank matrices with possible dependence structure</li>
 </ul>
