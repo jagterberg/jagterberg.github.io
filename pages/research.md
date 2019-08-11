@@ -12,7 +12,8 @@ title: Research
 </b> <br />
 Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Submitted, 2019.
 </li><br />
-<li><b>A Clustering Method For Categorical Variables to Identify Profiles of Individuals With High Health Expenditures</b><br />  
+<li><b>A Data-Driven Clustering Application Using All Categorical Variables to Identify Clusters of Individual Profiles with High Health
+Expenditures</b><br />  
 <i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Submitted, 2019.<br /> 
 </li>
 </ul>
