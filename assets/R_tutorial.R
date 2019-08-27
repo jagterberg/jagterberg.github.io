@@ -21,7 +21,7 @@ mu <- 0
 sigma <- 1
 
 #generate 100 normally distributed rv with mean 0 and sd 1: 
-set.seed(1) #set for reproducibility
+set.seed(124) #set for reproducibility
 x <- rnorm(n = n, mean = mu, sd = sigma)
 summary(x)
 
@@ -159,8 +159,8 @@ cat("interval estimation", LCB, UCB)
 
 s_X <- sd(data_X)
 s_Y <- sd(data_Y)
-LCB <- x_bar - y_bar + qnorm(0.025) * sqrt(s_X^2 / n_X + s_Y^2 / n_Y)
-UCB <- x_bar - y_bar + qnorm(0.975) * sqrt(s_X^2 / n_X + s_Y^2 / n_Y)
+LCB <- x_bar - y_bar + qt(0.025,n_X + n_Y - 2) * sqrt(s_X^2 / n_X + s_Y^2 / n_Y)
+UCB <- x_bar - y_bar + qt(0.975,n_X + n_Y - 2) * sqrt(s_X^2 / n_X + s_Y^2 / n_Y)
 cat("interval estimation", LCB, UCB)
 
 
@@ -335,7 +335,7 @@ setwd('./all')
 #code taken from: https://www.kaggle.com/notaapple/detailed-exploratory-data-analysis-using-r
 
 
-train <- read.csv("train.csv")
+train <- read.csv("./FM2018/train.csv")
 library(data.table)
 train <- data.table(train)
 na_vals <- sapply(train,function(x) {
