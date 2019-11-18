@@ -2,8 +2,23 @@
 layout: page
 title: Research
 ---
-<h4>Publications</h4>
+<h4>Research Interests</h4>
 <ul>
+<li>Random Graph Inference</li>
+<li>Kernel Methods</li>
+<li>Spectral Perturbation Theory and Matrix Analysis</li>
+<li>High-dimensional Statistics</li>
+<li>Nonparametric Statistics</li>
+</ul>
+
+<h4>Preprints and Publications</h4>
+<ul>
+<li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
+</li><br />
+<li><b>On Two Distinct Sources of Nonidentifiability in Random Graphs and High-Dimensional Inference</b> <br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
+</li><br />
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Contamination</b> <br />
 <i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Submitted, 2019. <br />
 <a href="https://arxiv.org/abs/1905.01776">[arXiv]</a>.
@@ -19,16 +34,12 @@ Expenditures</b><br />
 </ul>
 
 
-<h4>Code</h4>
+<h4>Code and Miscellaneous</h4>
 <ul>
+<li><a href="https://github.com/jagterberg/nonparGraphTesting">Nonparametric Graph Testing</a></li>
 <li><a href="../assets/procrustes_simulation.html">Indefinite Procrustes Analysis</a></li>
+<li><a href="../assets/final_project.html">Final Project</a> on graph matching for a course on random graph inference.</li>
 <li><a href="https://github.com/neurodata/primitives-interfaces">D3M</a></li>
 <li>The <code>iGraphMatch</code> package <a href="https://github.com/dpmcsuss/iGraphMatch/tree/dev_splr"><code>splrMatrix</code> class</a></li>
 <li>The <a href="https://github.com/jagterberg/catDist"><code>catDist</code> R package</a></li>
-</ul>
-
-<h4>Ongoing Projects</h4>
-<ul>
-<li>Nonparametric hypothesis testing for the generalized random dot product graph</li>
-<li>Theory for random low-rank matrices with possible dependence structure</li>
 </ul>

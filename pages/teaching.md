@@ -4,6 +4,8 @@ title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
+[553.810 Probability and Statistics](../assets/RMT_notes.pdf) (Probability Theory III): This is a topics course in probability I co-led with another graduate student.
+
 [Financial Mathematics Orientation 2019](fm2019.html)
 
 [Financial Mathematics Orientation 2018](fm2018.html)
