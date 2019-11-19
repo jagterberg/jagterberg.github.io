@@ -47,5 +47,5 @@ Expenditures</b><br />
 <h4>Honors and Awards</h4>
 <ul>
 <li><b>2019-2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
-<li><b>2019-2020</b> Charles and Catherine Fellowship</li>
+<li><b>2019-2020</b> Charles and Catherine Counselman Fellowship</li>
 </ul>
