@@ -11,7 +11,7 @@ description: Graduate Student at Johns Hopkins
 	<div class = "span4">
 		<div style="text-align:right">
 		<a href="https://engineering.jhu.edu/ams/">Department of Applied Mathematics and Statistics</a><br/>
-		<a href="https://www.minds.jhu.edu/">MINDS Institute</a><br/>
+		<a href="https://www.minds.jhu.edu/">MINDS (Mathematical Institute of Data Science)</a><br/>
 		<a href="https://engineering.jhu.edu/">Whiting School of Engineering</a><br/>
           	<a href="https://www.jhu.edu/">Johns Hopkins University</a><br/>
 		<br/>
