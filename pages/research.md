@@ -43,3 +43,9 @@ Expenditures</b><br />
 <li>The <code>iGraphMatch</code> package <a href="https://github.com/dpmcsuss/iGraphMatch/tree/dev_splr"><code>splrMatrix</code> class</a></li>
 <li>The <a href="https://github.com/jagterberg/catDist"><code>catDist</code> R package</a></li>
 </ul>
+
+<h4>Honors and Awards</h4>
+<ul>
+<li><b>2019-2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a><li>
+<li><b>2019-2020</b> Charles and Catherine Fellowship</li>
+</ul>
