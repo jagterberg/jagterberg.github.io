@@ -5,7 +5,7 @@ description: Graduate Student at Johns Hopkins
 ---
 <div class="container">
 	<div class = "span3">
-		<div style="text-align:center"><img src ="assets/pics/Inked_joshua_agterberg_8-20.jpg"/>
+		<div style="text-align:center"><img src ="assets/pics/jagterberg_11-28.jpg"/>
 		</div>
 	</div>
 	<div class = "span4">
