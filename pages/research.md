@@ -52,8 +52,8 @@ Expenditures</b><br />
 
 <h4>Current and Previous Collaborators</h4>
 <ul>
-<li>[Joshua Cape](https://pages.jh.edu/~jcape1/)</li>
-<li>[Minh Tang](https://minh-tang.github.io/)</li>
-<li>[Vince Lyzinski](http://people.math.umass.edu/~lyzinski/)</li>
-<li>[Youngser Park](http://www.cis.jhu.edu/~parky/)</li>
+<li><a href = "https://pages.jh.edu/~jcape1/">Joshua Cape</a></li>
+<li><a href = "https://minh-tang.github.io/">Minh Tang</a></li>
+<li><a href = "http://people.math.umass.edu/~lyzinski/">Vince Lyzinski</a></li>
+<li><a href = "http://www.cis.jhu.edu/~parky/">Youngser Park</a></li>
 </ul>
