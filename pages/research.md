@@ -16,10 +16,10 @@ title: Research
 <li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
 </li><br />
-<li><b>On Two Distinct Sources of Nonidentifiability in Random Graphs and High-Dimensional Inference</b> <br />
+<li><b>On Two Distinct Sources of Nonidentifiability in Random Graph Inference</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
 </li><br />
-<li><b>Vertex Nomination, Consistent Estimation, and Adversarial Contamination</b> <br />
+<li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
 <i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Submitted, 2019. <br />
 <a href="https://arxiv.org/abs/1905.01776">[arXiv]</a>.
 </li><br />
@@ -47,5 +47,13 @@ Expenditures</b><br />
 <h4>Honors and Awards</h4>
 <ul>
 <li><b>2019-2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
-<li><b>2019-2020</b> Charles and Catherine Counselman Fellowship</li>
+<li><b>2019-2020</b><a href="https://engineering.jhu.edu/ams/fellowship-information/">Charles and Catherine Counselman Fellowship</a></li>
+</ul>
+
+<h4>Current and Previous Collaborators</h4>
+<ul>
+<li>[Joshua Cape](https://pages.jh.edu/~jcape1/)</li>
+<li>[Minh Tang](https://minh-tang.github.io/)</li>
+<li>[Vince Lyzinski](http://people.math.umass.edu/~lyzinski/)</li>
+<li>[Youngser Park](http://www.cis.jhu.edu/~parky/)</li>
 </ul>

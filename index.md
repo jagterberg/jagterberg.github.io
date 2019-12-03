@@ -25,11 +25,10 @@ description: Graduate Student at Johns Hopkins
 <br/>
 <br/>
 
-Hello! I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor 
-[Carey Priebe](https://www.ams.jhu.edu/~priebe/). I also work with [Joshua Cape](https://pages.jh.edu/~jcape1/), 
-[Minh Tang](https://minh-tang.github.io/), and [Vince Lyzinski](http://people.math.umass.edu/~lyzinski/).
-I am broadly interested in algorithms and statistical models for networks and random matrices.
-You can read about some of my research [here](/pages/research.html).
+I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor 
+[Carey Priebe](https://www.ams.jhu.edu/~priebe/). I am broadly interested in algorithms and statistical models for networks and random matrices.
+You can read about some of my research [here](/pages/research.html).  This year, I am a [Counselman Fellow](https://engineering.jhu.edu/ams/fellowship-information/) 
+and an inaugural [Minds Fellow](https://www.minds.jhu.edu/awards/minds-data-science-fellowships/).
 
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).
