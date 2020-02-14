@@ -23,7 +23,7 @@ title: Research
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
 </li><br />
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
-<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Submitted, 2019. <br />
+<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Under Revision, 2019. <br />
 <a href="https://arxiv.org/abs/1905.01776">[arXiv]</a>.
 </li><br />
 <li><b>Social Determinant-Based Profiles of US Adults Used to Identify Groups with the Highest and Lowest Health Expenditures
