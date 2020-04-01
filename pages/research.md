@@ -13,14 +13,13 @@ title: Research
 
 <h4>Preprints and Publications</h4>
 <ul>
-<li><b>Algorithms for an Indefinite Procrustes Problem Motivated by Random Graph Inference</b> <br />
-<i>Joshua Agterberg</i>, Jonathan Robbins, Patrick Rubin-Delanchy, and Carey Priebe, In Progress.<br />
-</li><br />
-<li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
-<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
-</li><br />
 <li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
-<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, In Progress.<br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
+<a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
+</li><br />
+<li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
+Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted, 2020.<br />
+<a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a>.
 </li><br />
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
 <i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Under Revision, 2019. <br />
@@ -34,6 +33,16 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Sub
 Expenditures</b><br />  
 <i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Submitted, 2019.<br /> 
 </li>
+</ul>
+
+<h4>Working Papers</h4>
+<ul>
+<li><b>Algorithms for an Indefinite Procrustes Problem Motivated by Random Graph Inference</b> <br />
+<i>Joshua Agterberg</i>, Jonathan Robbins, Patrick Rubin-Delanchy, and Carey Priebe.<br />
+</li><br />
+<li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe.<br />
+</li><br />
 </ul>
 
 
