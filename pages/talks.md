@@ -4,7 +4,7 @@ title: Talks
 ---
 <ul>
 <li>“Consistent Nonparametric Hypothesis Testing for Low Rank Random Graphs with Negative or Repeated Eigenvalues” <br />
-<a href = "https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=312498">[Joint Statistical Meetings], 8/6/2020</li>
+<a href = "https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=312498">[Joint Statistical Meetings]</a>, 8/6/2020</li>
 <li>“Nonidentifiability and nonparametric random graph hypothesis testing”  <br />
 <a href = "https://www.minds.jhu.edu/event/joshua-agterberg-nonidentifiability-and-nonparametric-random-graph-hypothesis-testing/">[MINDS Seminar]</a>, JHU, 4/7/2020
 </li>
