@@ -48,6 +48,7 @@ Expenditures</b><br />
 
 <h4>Code and Miscellaneous</h4>
 <ul>
+<li><a href="../pages/reading_group">Summer 2020 Reading Group</a></li>
 <li><a href="https://github.com/jagterberg/nonparGraphTesting">Nonparametric Graph Testing</a></li>
 <li><a href="../assets/procrustes_simulation.html">Indefinite Procrustes Analysis</a></li>
 <li><a href="../assets/final_project.pdf">Final Project</a> on graph matching for a course on random graph inference.</li>
