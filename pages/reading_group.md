@@ -4,7 +4,8 @@ title: Summer 2020 Reading Group
 ---
 I will periodically update this with links for papers etc.  The google sheet for voting on papers is [here](https://docs.google.com/spreadsheets/d/1jdYwNqViZ4kz-cvREZWdq9jOFScAkvOHmUU2pRRoa1U/edit?usp=sharing).
 
-| Date      | Topics Covered | 
+| Date      | Presenter and Topics Covered | 
 | :---        |    :----   |  
+| 6/9/2020 	| Joshua, [Lei and Rinaldo](https://projecteuclid.org/euclid.aos/1418135620), [Rohe, Chaterjee, and Yu](https://projecteuclid.org/euclid.aos/1314190618) |
 | 6/2/2020     | Discussion of goals, potential papers, and general organization       | 
 
