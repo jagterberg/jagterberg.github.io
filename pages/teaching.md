@@ -13,6 +13,8 @@ title: Teaching
 
 <h4>Teaching Assistant (JHU)</h4>
 
+553.310 Probability and Statistics (Summer 2020)
+
 553.310 Probability and Statistics (Summer 2019)
 
 553.762 Nonlinear Optimization II (Spring 2019)

@@ -37,9 +37,6 @@ Expenditures</b><br />
 
 <h4>Working Papers</h4>
 <ul>
-<li><b>Algorithms for an Indefinite Procrustes Problem Motivated by Random Graph Inference</b> <br />
-<i>Joshua Agterberg</i>, Jonathan Robbins, Patrick Rubin-Delanchy, and Carey Priebe.<br />
-</li><br />
 <li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Mao Hong, Minh Tang, and Carey Priebe.<br />
 </li><br />
