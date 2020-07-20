@@ -22,16 +22,15 @@ Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted,
 <a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a>.
 </li><br />
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
-<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Under Revision, 2019. <br />
+<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Under Revision, 2020. <br />
 <a href="https://arxiv.org/abs/1905.01776">[arXiv]</a>.
 </li><br />
-<li><b>Social Determinant-Based Profiles of US Adults Used to Identify Groups with the Highest and Lowest Health Expenditures
+<li><b>Social Determinant-Based Profiles of US Adults  with the Highest and Lowest  Health Expenditures Using Clusters
 </b> <br />
-Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Submitted, 2019.
+Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Submitted, 2020.
 </li><br />
-<li><b>A Data-Driven Clustering Application Using All Categorical Variables to Identify Clusters of Individual Profiles with High Health
-Expenditures</b><br />  
-<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Submitted, 2019.<br /> 
+<li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
+<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Accepted to <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
 </li>
 </ul>
 
