@@ -6,6 +6,7 @@ I will periodically update this with links for papers etc.  The google sheet of 
 
 | Date                     | Presenter |   Topics Covered | 
 | :--------                |    :---------   |  :---------   |
+|7/21/2020		| Ben Draves | [Draves and Sussman](https://arxiv.org/abs/2005.02511) |
 |7/14/2020		| [Joshua](../assets/SIMPLE_notes.pdf) | [Fan et al.](https://arxiv.org/abs/1910.01734) |
 |7/7/2020		   | [Joshua](../assets/SIMPLE_notes.pdf)| [Fan et al.](https://arxiv.org/abs/1910.01734) |
 |6/30/2020		   | [Joshua](../assets/mao_et_al_notes.pdf) | [Mao, Sarkar, and Chakrabarti](https://www-tandfonline-com.proxy1.library.jhu.edu/doi/full/10.1080/01621459.2020.1751645) |
