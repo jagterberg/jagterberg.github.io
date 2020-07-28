@@ -6,7 +6,7 @@ I will periodically update this with links for papers etc.  The google sheet of 
 
 | Date                     ||Presenter ||Topics Covered | 
 | :--------               | |    :---------   ||  :---------   |
-|7/28/2020		||Zach || [Padilla, Yu, and Priebe](https://arxiv.org/abs/1911.07494) |
+|7/28/2020		||[Zach](../assets/changepointnotes.pdf) || [Padilla, Yu, and Priebe](https://arxiv.org/abs/1911.07494) |
 |7/21/2020		|| [Ben Draves](../assets/draves_sussman_notes.pdf) || [Draves and Sussman](https://arxiv.org/abs/2005.02511) |
 |7/14/2020		|| [Joshua](../assets/SIMPLE_notes.pdf) || [Fan et al.](https://arxiv.org/abs/1910.01734) |
 |7/7/2020		  | | [Joshua](../assets/SIMPLE_notes.pdf)|| [Fan et al.](https://arxiv.org/abs/1910.01734) |
