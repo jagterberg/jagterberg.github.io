@@ -31,6 +31,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Sub
 </li><br />
 <li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
 <i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Accepted to <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
+<a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[link]</a>.
 </li>
 </ul>
 
