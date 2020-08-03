@@ -30,7 +30,7 @@ Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted,
 Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Submitted, 2020.
 </li><br />
 <li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
-<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Accepted to <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
+<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Published in <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
 <a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[link]</a>.
 </li>
 </ul>
@@ -38,7 +38,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Sub
 <h4>Working Papers</h4>
 <ul>
 <li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
-<i>Joshua Agterberg</i>, Mao Hong, Minh Tang, and Carey Priebe.<br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe.<br />
 </li><br />
 </ul>
 
