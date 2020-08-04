@@ -6,6 +6,7 @@ I will periodically update this with links for papers etc.  The google sheet of 
 
 | Date                     ||Presenter ||Topics Covered | 
 | :--------               | |    :---------   ||  :---------   |
+|8/11/2020 			||Jesús || [Lei](https://arxiv.org/abs/1802.09684) |	
 |8/4/2020		||No Meeting || [JSM](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?sessionid=219938) |
 |7/28/2020		||[Zach](../assets/change_points_notes.pdf) || [Padilla, Yu, and Priebe](https://arxiv.org/abs/1911.07494) |
 |7/21/2020		|| [Ben Draves](../assets/draves_sussman_notes.pdf) || [Draves and Sussman](https://arxiv.org/abs/2005.02511) |
