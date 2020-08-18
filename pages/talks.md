@@ -2,7 +2,6 @@
 layout: page
 title: Talks
 ---
-<h4>Talks</h4>
 <ul>
 <li><b>“Consistent Nonparametric Hypothesis Testing for Low Rank Random Graphs with Negative or Repeated Eigenvalues”</b> <br />
 <a href = "https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=312498">Joint Statistical Meetings</a>, 8/6/2020
