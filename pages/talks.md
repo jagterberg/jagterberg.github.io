@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks and Awards
+title: Talks
 ---
 <h4>Talks</h4>
 <ul>
@@ -21,11 +21,3 @@ Applied Math and Statistics Student Seminar, JHU, 4/23/2019
 </li>
 </ul>
  
-<h4>Honors and Awards</h4>
-<ul>
-<li><b>2020-Present</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Apprentice Teaching Fellow</a></li>
-<li><b>2019-2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
-<li><b>2019-2020</b> <a href="https://engineering.jhu.edu/ams/fellowship-information/">Charles and Catherine Counselman Fellowship</a></li>
-</ul>
-
-
