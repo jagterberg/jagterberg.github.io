@@ -27,7 +27,7 @@ Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted,
 </li><br />
 <li><b>Social Determinant-Based Profiles of US Adults  with the Highest and Lowest  Health Expenditures Using Clusters
 </b> <br />
-Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Submitted, 2020.
+Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Accepted to <i>North American Actuarial Journal</i>, 2020.
 </li><br />
 <li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
 <i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Published in <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
