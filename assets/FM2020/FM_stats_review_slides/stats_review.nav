@@ -1,0 +1,61 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Preliminaries}{3}{Preliminaries}{0}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@sectionpages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\sectionentry {2}{Exact Parametric Methods}{4}{Exact Parametric Methods}{0}}
+\headcommand {\slideentry {2}{0}{1}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{5}{Estimation}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{5}{One-Sample Parametric Testing}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{5}{Two-Sample Parametric Testing}}
+\headcommand {\beamer@sectionpages {4}{4}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\sectionentry {3}{Large-Sample Parametric Methods}{5}{Large-Sample Parametric Methods}{0}}
+\headcommand {\slideentry {3}{0}{1}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{6}{Estimation}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{6}{Testing}}
+\headcommand {\beamer@sectionpages {5}{5}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\sectionentry {4}{Linear Regression}{6}{Linear Regression}{0}}
+\headcommand {\slideentry {4}{0}{1}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{7}{Simple Linear Regression}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{7}{Variable Selection Methods}}
+\headcommand {\beamer@sectionpages {6}{6}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\sectionentry {5}{Nonparametric Techniques}{7}{Nonparametric Techniques}{0}}
+\headcommand {\slideentry {5}{0}{1}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@sectionpages {7}{7}}
+\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\sectionentry {6}{Machine Learning}{8}{Machine Learning}{0}}
+\headcommand {\slideentry {6}{0}{1}{8/8}{}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{9}{Supervised Learning}}
+\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{9}{Unsupervised Learning}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{2}{1}{9}{Dimensionality Reduction}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{2}{2}{9}{Clustering}}
+\headcommand {\slideentry {6}{2}{1}{9/9}{Unsupervised Learning}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@partpages {1}{9}}
+\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\beamer@sectionpages {8}{9}}
+\headcommand {\beamer@documentpages {9}}
+\headcommand {\gdef \inserttotalframenumber {9}}

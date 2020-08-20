@@ -4,15 +4,15 @@ title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
-[Summer 2020 Reading Group](reading_group.html)
+[Master's Orientation 2020](fm2020.html)
 
-[Financial Mathematics Orientation 2020](fm2020.html)
+[Summer 2020 Reading Group](reading_group.html)
 
 [553.810 Probability and Statistics](../assets/RMT_notes.pdf) (Probability Theory III): This is a topics course in probability I co-led with another graduate student. (There is a mistake in the first half of these notes where I apply Weyl's inequality to a non-Hermitian matrix, but I think the argument goes through by taking real parts.)
 
-[Financial Mathematics Orientation 2019](fm2019.html)
+[Master's Orientation 2019](fm2019.html)
 
-[Financial Mathematics Orientation 2018](fm2018.html)
+[Master's Orientation 2018](fm2018.html)
 
 
 <h4>Teaching Assistant (JHU)</h4>
