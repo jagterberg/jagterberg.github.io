@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Statistics Master's Orientation 2019
+title: Statistics Master's Orientation 2020
 ---
-[Notes for 2020](../assets/FM_orientation_notes_2018.Note.pdf)
+[Slides](../assets/masters2020/stats_review.pdf)
 
-[R code for 2020](../assets/FM2020/R_tutorial.R)
+[Extra Notes from Previous Years](../assets/FM_orientation_notes_2018.Note.pdf)
 
-[Data for the linear regression tutorial](../assets/FM2020/train.csv)
+[R code for 2020](../assets/masters2020/R_tutorial.R)
 
-[Proof that Sample Mean is T-distributed](../assets/sample mean and t distribution.pdf)
+[Data for the linear regression tutorial](../assets/masters2020/train.csv)
 
 If this review is all new to you, it might be worth studying from 
 [Rice's Textbook](https://www.amazon.com/Mathematical-Statistics-Data-Analysis-Rice/dp/8131519546)

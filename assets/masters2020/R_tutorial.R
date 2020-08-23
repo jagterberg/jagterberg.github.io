@@ -335,7 +335,7 @@ setwd('./all')
 #code taken from: https://www.kaggle.com/notaapple/detailed-exploratory-data-analysis-using-r
 
 
-train <- read.csv("./FM2018/train.csv")
+train <- read.csv("jagterberg.github.io/assets/masters2020/train.csv")
 library(data.table)
 train <- data.table(train)
 na_vals <- sapply(train,function(x) {
