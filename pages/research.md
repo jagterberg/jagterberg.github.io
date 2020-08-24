@@ -13,6 +13,11 @@ title: Research
 
 <h4>Preprints and Publications</h4>
 <ul>
+<li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
+Vertices<b><br />
+Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted, 2020. <br />
+<a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a>.
+</li><br />
 <li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 <a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
