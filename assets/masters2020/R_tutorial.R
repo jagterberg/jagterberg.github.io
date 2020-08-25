@@ -64,7 +64,7 @@ test_hypothesis_known_variance <- function(mu_0 = .1,dat = NULL,alpha = .05, sig
                        
 }
 
-result <- test_hypothesis_known_variance(mu_0=.1,dat = x)
+result <- test_hypothesis_known_variance(mu_0=.3,dat = x)
 result
 result <- test_hypothesis_known_variance(mu_0=.001,dat = x)
 result
@@ -124,7 +124,7 @@ test_hypothesis_unknown_variance <- function(dat, mu_0 = .1,alpha = .05) {
   return(toReturn)
 }
 
-result <- test_hypothesis_unknown_variance(dat = x, mu_0 = .2)
+result <- test_hypothesis_unknown_variance(dat = x, mu_0 = .3)
 result
 result <- test_hypothesis_unknown_variance(dat = x, mu_0 = .0001)
 result
@@ -323,7 +323,7 @@ alpha_t_p_value
 
 # R^2
 SSR / TSS
-1 - MSE/(TSS/(n-1))n
+1 - MSE/(TSS/(n-1))
 
 #----------------- Typical R Linear Regression Code ------------
 rm(list = ls())
@@ -331,7 +331,7 @@ rm(list = ls())
 getwd()
 #set this to where your training and testing data are stored
 #setwd('./School/Teaching/FM_Orientation_2018/all') 
-setwd('./all')
+#setwd('./all')
 #code taken from: https://www.kaggle.com/notaapple/detailed-exploratory-data-analysis-using-r
 
 
