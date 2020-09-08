@@ -146,7 +146,6 @@ data_Y <- rnorm(n_Y, mean = mu_Y, sd = sigma_Y)
 #generate histograms of data:
 hist(data_X, breaks = 20, freq = FALSE)
 hist(data_Y, breaks = 20, freq = FALSE)
-
 # point estimation
 x_bar <- mean(data_X)
 y_bar <- mean(data_Y)
@@ -467,12 +466,12 @@ if(!require(randomForest)) {
 rf <- randomForest(setosa_ind~.,data=dat_train)
 rf
 
-if(!require(tree)) {
-  install.packages('tree')
-  library(tree)
-}
+#if(!require(tree)) {
+#  install.packages('tree')
+#  library(tree)
+#}
 
-dt <- tree(setosa_ind~.,data=dat_train)
+#dt <- tree(setosa_ind~.,data=dat_train)
 
 get_error <- function(model,test = dat_test,var = 'setosa_ind') {
   predicted <- predict(model,test)
@@ -485,12 +484,13 @@ get_error <- function(model,test = dat_test,var = 'setosa_ind') {
 
 get_error(rf)
 get_error(logistic)
-get_error(dt)
+#get_error(dt)
 
 
-logistic2 <- glm(setosa_ind~PC1 + PC2, data =dat,family = binomial)
+logistic2 <- glm(setosa_ind~PC1 + PC2, data =dat_train,family = binomial)
 summary(logistic2)
 summary(logistic)
+get_error(logistic2)
 
 rf_new <- randomForest(setosa_ind~PC1 + PC2, data =dat)
 get_error(rf_new)

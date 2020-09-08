@@ -28,7 +28,7 @@ Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted,
 </li><br />
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
 <i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Accepted to <i>Electronic Journal  of Statistics</i>, 2020. <br />
-<a href="https://arxiv.org/abs/1905.01776">[arXiv]</a>.
+<a href="https://arxiv.org/abs/1905.01776">[arXiv]</a><a href="https://doi.org/10.1214/20-EJS1744">[Publisher Site]</a>.
 </li><br />
 <li><b>Social Determinant-Based Profiles of US Adults  with the Highest and Lowest  Health Expenditures Using Clusters
 </b> <br />
@@ -36,7 +36,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Acc
 </li><br />
 <li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
 <i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Published in <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
-<a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[link]</a>.
+<a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[Publisher Site]</a>.
 </li>
 </ul>
 
