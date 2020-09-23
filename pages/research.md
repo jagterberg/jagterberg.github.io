@@ -42,7 +42,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Acc
 
 <h4>Working Papers</h4>
 <ul>
-<li><b>Consistent Nonparametric Hypothesis Testing for Random Graphs with Negative or Repeated Eigenvalues</b> <br />
+<li><b>Consistent Nonparametric Hypothesis Testing for Low Rank Random Graphs with Negative and Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe.<br />
 </li><br />
 </ul>
