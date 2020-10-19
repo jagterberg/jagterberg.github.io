@@ -27,8 +27,8 @@ description: Graduate Student at Johns Hopkins
 
 I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor 
 [Carey Priebe](https://www.ams.jhu.edu/~priebe/). I am broadly interested in the analysis of algorithms and statistical models for networks and random matrices.
-You can read about some of my research [here](/pages/research.html).  I was previously a [Counselman Fellow](https://engineering.jhu.edu/ams/fellowship-information/) 
-and a [MINDS Fellow](https://www.minds.jhu.edu/people/#tripods-fellows).
+You can read about some of my research [here](/pages/research.html).  This year, I am a [Counselman Fellow](https://engineering.jhu.edu/ams/fellowship-information/).  
+Previously, I was a [MINDS Fellow](https://www.minds.jhu.edu/people/#tripods-fellows).
 
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).  
