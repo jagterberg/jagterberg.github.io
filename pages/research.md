@@ -59,18 +59,19 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Acc
 
 <h4>Honors and Awards</h4>
 <ul>
-<li><b>2020-Present</b> <a href="https://engineering.jhu.edu/ams/fellowship-information/">Charles and Catherine Counselman Fellowship</a></li>
+<li><b>2019-Present</b> <a href="https://engineering.jhu.edu/ams/fellowship-information/">Charles and Catherine Counselman Fellowship</a></li>
 <li><b>2020-Present</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Apprentice Teaching Fellow</a></li>
 <li><b>2019-2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
-<li><b>2019-2020</b> <a href="https://engineering.jhu.edu/ams/fellowship-information/">Charles and Catherine Counselman Fellowship</a></li>
 </ul>
 
 <h4>Current and Previous Collaborators</h4>
 <ul>
-<li><a href = "https://pages.jh.edu/~jcape1/">Joshua Cape</a></li>
+<li><a href = "https://engineering.jhu.edu/ams/faculty/zachary-lubberts/">Zachary Lubberts</a></li>
+<li><a href = "https://jcape1.github.io/">Joshua Cape</a></li>
 <li><a href = "https://minh-tang.github.io/">Minh Tang</a></li>
 <li><a href = "http://people.math.umass.edu/~lyzinski/">Vince Lyzinski</a></li>
 <li><a href = "http://www.cis.jhu.edu/~parky/">Youngser Park</a></li>
+<li><a href = "https://wsb.wisc.edu/directory/faculty/marjorie-rosenberg">Margie Rosenberg</a></li>
 </ul>
 
 
