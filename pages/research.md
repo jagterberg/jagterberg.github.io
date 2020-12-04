@@ -4,7 +4,7 @@ title: Research
 ---
 <h4>Research Interests</h4>
 <ul>
-<li>Random Graph Inference</li>
+<li>Statistical Network Analysis</li>
 <li>Kernel Methods</li>
 <li>Spectral Perturbation Theory and Matrix Analysis</li>
 <li>High-dimensional Statistics</li>
