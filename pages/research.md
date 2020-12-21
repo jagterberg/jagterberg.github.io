@@ -65,6 +65,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Acc
 
 <h4>Current and Previous Collaborators</h4>
 <ul>
+<li><a href = "https://alyakin314.github.io/">Anton Alyakin</a></li>
 <li><a href = "https://engineering.jhu.edu/ams/faculty/zachary-lubberts/">Zachary Lubberts</a></li>
 <li><a href = "https://jcape1.github.io/">Joshua Cape</a></li>
 <li><a href = "https://minh-tang.github.io/">Minh Tang</a></li>
