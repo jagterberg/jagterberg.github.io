@@ -4,7 +4,7 @@ title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
-553.283 Introduction to R (Intersession 2021)
+[553.283 Introduction to R (Intersession 2021)](r_2021.html)
 
 [Master's Orientation 2020](masters2020.html)
 
