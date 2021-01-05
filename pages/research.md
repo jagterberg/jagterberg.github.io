@@ -13,6 +13,11 @@ title: Research
 
 <h4>Preprints and Publications</h4>
 <ul>
+<li><b>Improving the Power of a Two-Sample Graph Test with Applications in Connectomics</b><br />
+Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua T. Vogelstein, Carey E. Priebe
+<br />
+<a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a>.
+</li><br />
 <li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe.<br />
 <a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.

@@ -27,7 +27,7 @@ x <- 2*x + 1
 
 x<-2
 n<-25
-.big.heckin.number <- 123456789
+h.big.heckin.number <- 123456789
 IttyBitty <- 0.00000001
 
 
@@ -60,6 +60,8 @@ s_squared
 var(x)
 
 
+
+simple_seq <- 1:10
 1:10
 rev(1:10)
 10:1
@@ -68,7 +70,8 @@ a+h*(0:(n-1))
 seq(1, 9, by=2)
 seq(1,10, length=5)
 rep(1,10)
-rep(1:3,3)
+n <- 100
+rep(1:3,n)
 ebay <- c(88.8, 88.3, 90.2, 93.5, 94.7, 99.2, 99.4, 101.6)
 ebay[1]
 ebay[9]
@@ -85,6 +88,7 @@ simpsons['dad']
 ebay[9] <- 88.0
 ebay[10:13] <- c(97.0, 99.3, 102.0, 101.8)
 ebay
+
 
 ebay > 100
 ebay[ebay > 100]
