@@ -4,7 +4,7 @@ central.park.cloud
 table(central.park.cloud)
 table(central.park.cloud)/length(central.park.cloud) 
 
-
+barplot(table(central.park.cloud))
 barplot(table(central.park.cloud), ylab = "Frequency") 
 barplot(table(central.park.cloud)/length(central.park.cloud), ylab = "Proportion")
 
@@ -32,6 +32,7 @@ diff(range(x))
 var(x)
 sd(x)
 IQR(x)
+
 quantile(x, seq(0,1,by=.25))
 summary(x)
 

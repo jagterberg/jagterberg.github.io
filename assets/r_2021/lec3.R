@@ -1,6 +1,5 @@
 iris <- iris
 dhf <- density(iris$Sepal.Length)
-summary(dhf)
 
 
 x=1:2; y=letters[1:2]; z=1:3
@@ -90,14 +89,16 @@ midwest_state + geom_bar(col="blue", fill = "yellow")
 
 state_pops = midwest %>% group_by(state) %>%
   summarise(tot_pop=sum(poptotal))
-ggplot(state_pops, aes(state,tot_pop))+
-  geom_bar(stat='identity')
+ggplot(data=state_pops, aes(x=state,y=tot_pop))+
+  geom_bar(stat= 'identity',col="blue", fill = "yellow")
 
 ggplot(txhousing, aes(x=listings)) + geom_histogram()
 ggplot(midwest, aes(state, area)) + geom_boxplot()
-ggplot(txhousing, aes(listings,
+dat <- txhousing
+dat$month <- as.factor(dat$month)
+ggplot(dat, aes(listings,
                       sales,
-                      col=month)) +
+                      lwd=month,col=month)) +
   geom_point() + #color already encoded in aes()
   guides() #add default legend (gradient for numerical data)
 
