@@ -91,6 +91,7 @@ pow(8, 2)
 pow(x = 8, y = 2)
 pow(y = 2, x = 8)
 
+
 pow <- function(x, y = 2){
     result = x^y
     print(paste(x, "raised to the power", y, "is", result))
@@ -98,6 +99,7 @@ pow <- function(x, y = 2){
 
 pow(3)
 pow(3, 1)
+
 
 check <- function(x){
   if(x>0){
@@ -137,6 +139,20 @@ recursive.factorial <- function(x){
 
 recursive.factorial(3) 
 recursive.factorial(100) #slow for big numbers
+
+#f(n) = n + 3* f(n-2) + f(n-1)*2
+example_function <- function(n) {
+  if(n==1 | n==0 ) {
+    return(1)
+  }
+  n1 <- 3 * example_function(n-2)
+  n2 <- 2*example_function(n-1)
+  return(n + n1 + n2)
+}
+
+example_function(2)
+example_function(10)
+
 
 `%squared_dist%` <- function(x,y){
   return((x-y)^2)
