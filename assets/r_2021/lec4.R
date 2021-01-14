@@ -223,7 +223,7 @@ rnewdist <- function(n){
 
 means=c(); std_devs=c()
 for(i in 1:10000){
-  vec = rnewdist(10)
+  vec = rnewdist(5)
   means[i] = mean(vec); std_devs[i] = sd(vec)
 }
 hist(means, freq=F); lines(density(means))

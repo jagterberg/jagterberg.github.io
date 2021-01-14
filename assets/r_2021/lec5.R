@@ -67,6 +67,11 @@ shapiro.test(stud.recs$sat.m)
 shapiro.test(stud.recs$sat.v)
 
 
+x = rnorm(100)
+y = x + 3 + rnorm(100, sd=.25)
+res = lm(y~x)
+summary(res)
+
 attach(babies)
 mult_reg_no_factor = lm(
   wt ~ gestation + age + gestation*age,

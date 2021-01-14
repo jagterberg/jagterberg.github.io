@@ -39,8 +39,8 @@ train <- train[training]
 #convert to dataframe
 train <- as.data.frame(unclass(train),stringsAsFactors = T)
 test <- as.data.frame(unclass(test),stringsAsFactors = T)
-test <- rbind(xtrain[1, ] , xtest)
-test <- test[-1,]
+#test <- rbind(xtrain[1, ] , xtest)
+#test <- test[-1,]
 
 #run a linear regression:
 lm_basic <- lm(SalePrice~.,data=train)
