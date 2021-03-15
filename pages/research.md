@@ -13,8 +13,8 @@ title: Research
 
 <h4>Preprints and Publications</h4>
 <ul>
-<li><b>Improving the Power of a Two-Sample Graph Test with Applications in Connectomics</b><br />
-Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Submitted, 2020.
+<li><b>Valid Two-Sample Graph Testing via Optimal Transport Procrustes and Multiscale Graph Correlation: Applications in Connectomics</b><br />
+Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Submitted, 2021.
 <br />
 <a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a>.
 </li><br />
