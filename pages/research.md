@@ -66,8 +66,9 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Pub
 <h4>Honors and Awards</h4>
 <ul>
 <li><b>2021-Present</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Teaching Fellow</a></li>
-<li><b>Spring 2021</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
 <li><b>Spring 2021</b> <a href="https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award/">IMS Hannan Graduate Student Travel Award</a></li>
+<li><b>Spring 2021</b> <a href="https://community.amstat.org/nonparametricstatisticssection/paper-awards">Finalist for JSM Student Competition in Nonparametric Statistics</a></li>
+<li><b>Spring 2021</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
 <li><b>2019-Present</b> <a href="https://engineering.jhu.edu/ams/fellowship-information/">Charles and Catherine Counselman Fellowship</a></li>
 <li><b>2020-2021</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Apprentice Teaching Fellow</a></li>
 <li><b>Spring 2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
