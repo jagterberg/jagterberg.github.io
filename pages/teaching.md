@@ -35,4 +35,3 @@ ActSci 655 Health Analytics (Spring 2017)
 ActSci 651 Life Contingencies II (Fall 2016)
 
 ActSci 650 Life Contingencies I (Spring 2016)
-
