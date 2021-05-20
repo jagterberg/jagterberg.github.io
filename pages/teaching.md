@@ -10,7 +10,6 @@ HEART Course: Statistics and Data Science with Networks (Fall 2021)
 
 [Master's Orientation 2020](masters2020.html)
 
-[Summer 2020 Reading Group](reading_group.html)
 
 [553.810 Probability and Statistics](../assets/RMT_notes.pdf) (Probability Theory III): This is a topics course in probability I co-led with another graduate student. (There is a mistake in the first half of these notes where I apply Weyl's inequality to a non-Hermitian matrix, but I think the argument goes through by taking real parts.)
 
@@ -28,6 +27,12 @@ HEART Course: Statistics and Data Science with Networks (Fall 2021)
 553.762 Nonlinear Optimization II (Spring 2019)
 
 553.730 Statistical Theory (Fall 2018)
+
+<h4>Reading Groups (JHU)</h4>
+
+[Summer 2021 Reading Group](reading_group2k21.html)
+
+[Summer 2020 Reading Group](reading_group.html)
 
 
 <h4>Grader (Wisconsin)</h4>
