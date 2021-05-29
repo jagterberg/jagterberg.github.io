@@ -6,5 +6,5 @@ I will periodically update this with links for papers etc.  The google sheet of 
 
 | Date                     ||Presenter ||Topics Covered | 
 | :--------               | |    :---------   ||  :---------   |
-| 6/???/2020                 ||N/A      || Discussion of goals, potential papers, and general organization       | 
+| 6/4/2021                 ||N/A      || Discussion of goals, potential papers, and general organization       | 
 
