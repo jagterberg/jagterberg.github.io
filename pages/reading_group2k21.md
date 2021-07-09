@@ -6,7 +6,8 @@ I will periodically update this with links for papers etc.  The google sheet of 
 
 | Date                     ||Presenter ||Topics Covered | 
 | :--------               | |    :---------   ||  :---------   |
-|6/25/2021		|| Aranyak/Joshua || [Trosset, Gao, Tang, and Priebe continued](https://arxiv.org/abs/2004.07348), and [Rubin-Delanchy](https://arxiv.org/abs/2006.05168)|
+|7/9/2021		|| Joshua || [Rubin-Delanchy](https://arxiv.org/abs/2006.05168) |
+|6/25/2021		|| Aranyak || [Trosset, Gao, Tang, and Priebe continued](https://arxiv.org/abs/2004.07348) |
 | 6/18/2021		|| Aranyak || [Trosset, Gao, Tang, and Priebe continued](https://arxiv.org/abs/2004.07348)  |
 | 6/11/2021		|| Aranyak || [Trosset, Gao, Tang, and Priebe](https://arxiv.org/abs/2004.07348) |
 | 6/4/2021                 ||N/A      || Discussion of goals, potential papers, and general organization       | 
