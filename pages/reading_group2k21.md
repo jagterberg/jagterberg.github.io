@@ -6,10 +6,10 @@ I will periodically update this with links for papers etc.  The google sheet of 
 
 | Date                     ||Presenter ||Topics Covered | 
 | :--------               | |    :---------   ||  :---------   |
-|8/20/2021		|| ??? || ??? |
-|8/13/2021		|| ??? || ??? |
-|8/6/2021		|| ??? || ??? |
-|7/30/2021		|| ??? || ??? |
+|8/20/2021		|| ??? || Tensors |
+|8/13/2021		|| ??? || Tensors |
+|8/6/2021		|| ??? || Tensors |
+|7/30/2021		|| Joshua || [Whiteley, Gray, and Rubin-Delanchy](https://arxiv.org/abs/2106.01260)  |
 |7/23/2021		|| Joshua || [Whiteley, Gray, and Rubin-Delanchy](https://arxiv.org/abs/2106.01260) |
 |7/16/2021		|| Joshua || [Rubin-Delanchy](https://arxiv.org/abs/2006.05168) |
 |7/9/2021		|| Joshua || [Rubin-Delanchy](https://arxiv.org/abs/2006.05168) |
