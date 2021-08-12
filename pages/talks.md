@@ -4,7 +4,8 @@ title: Talks
 ---
 <ul>
 <li><b>“Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues”</b><br />
-<a href="https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317274">Joint Statistical Meetings</a>, August, 2021
+<a href="https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317274">Joint Statistical Meetings</a>, August, 2021 <br />
+(Won best presentation award for Nonparametric Statistics Student Competition)
 </li>
 <br />
 <li><b>“Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues”</b> <br />
