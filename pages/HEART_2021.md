@@ -2,7 +2,7 @@
 layout: page
 title: HEART: Statistics and Data Science With Networks
 ---
-[Syllabus](../assets/HEART/Syllabus.pdf)
+[Syllabus](../assets/HEART/syllabus.pdf)
 
 <h4>Slides</h4>
 
