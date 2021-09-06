@@ -4,7 +4,7 @@ title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
-HEART Course: Statistics and Data Science with Networks (Fall 2021)
+[HEART Course: Statistics and Data Science with Networks (Fall 2021)](HEART_2021.html)
 
 [Master's Orientation 2021](masters2021.html)
 
