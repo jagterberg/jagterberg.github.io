@@ -30,12 +30,6 @@ title: Teaching
 
 553.730 Statistical Theory (Fall 2018)
 
-<h4>Reading Groups (JHU)</h4>
-
-[Summer 2021 Reading Group](reading_group2k21.html)
-
-[Summer 2020 Reading Group](reading_group.html)
-
 
 <h4>Grader (Wisconsin)</h4>
 

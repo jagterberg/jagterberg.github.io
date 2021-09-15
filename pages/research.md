@@ -71,6 +71,13 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Pub
 <li><b>Spring 2020</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
 </ul>
 
+<h4>Reading Groups</h4>
+<ul>
+<li><a href="reading_group_fall_21.html">Fall 2021 Reading Group</a></li>
+<li><a href="reading_group2k21.html">Summer 2021 Reading Group</a></li>
+<li><a href="reading_group.html">Summer 2020 Reading Group</a></li>
+</ul>
+
 <h4>Current and Previous Collaborators</h4>
 <ul>
 <li><a href = "https://alyakin314.github.io/">Anton Alyakin</a></li>
