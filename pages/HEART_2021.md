@@ -10,8 +10,10 @@ title: HEART: Statistics and Data Science With Networks
 
 [Lecture 2 Slides](../assets/HEART/HEART_slides_day_2.pdf)
 
-<h4>Papers</h4>
+[Matrix Supplement](../assets/HEART/HEART_slides_matrices_supplement.pdf)
 
-...
+[Lecture 3 Slides](../assets/HEART/HEART_slides_day_3.pdf)
 
+<h4>Code</h4>
 
+[Probability and Statistics Code](../assets/HEART/prob_stats.R)
