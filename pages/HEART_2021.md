@@ -14,6 +14,14 @@ title: HEART: Statistics and Data Science With Networks
 
 [Lecture 3 Slides](../assets/HEART/HEART_slides_day_3.pdf)
 
+[Lecture 4 Slides](../assets/HEART/HEART_slides_day_4.pdf)
+
 <h4>Code</h4>
 
 [Probability and Statistics Code](../assets/HEART/prob_stats.R)
+
+[Choosing the rank](../assets/HEART/choosing_rank.R)
+
+[Summary statistics](../assets/HEART/summary_stats.R)
+
+[Community Detection examples](../assets/HEARt/community_detection.R)

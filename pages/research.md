@@ -19,7 +19,7 @@ title: Research
 <a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a>.
 </li><br />
 <li><b>Valid Two-Sample Graph Testing via Optimal Transport Procrustes and Multiscale Graph Correlation: Applications in Connectomics</b><br />
-Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Submitted, 2021.
+Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Accepted to <i>STAT</i>, 2021.
 <br />
 <a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a>.
 </li><br />
