@@ -15,6 +15,18 @@ library(irlba)
 A_eigen <- irlba(A,100)
 plot(A_eigen$d)
 
+B <- matrix(c(.7,.1,.1,.7),2,2)
+n <- 400
+pis <- c(1/2,1/2)
+assignmentvector1 <- rmultinom(n,1,pis)
+block.sizes1 <- rowSums(assignmentvector1)
+A1 <- sample_sbm(n,B,block.sizes1)
+A.adj1 <- as_adj(A1)
+A_eigen <- irlba(A.adj1,100)
+plot(A_eigen$d)
+
+
+
 
 library(igraphdata)
 data("enron")
@@ -108,6 +120,10 @@ getElbows <- function(dat, n = 3, threshold = FALSE, plot = TRUE, main="", ...) 
   
   return(q)
 }
+
+
+getElbows(A_eigen$d)
+
 
 data("enron")
 dat <-as_adjacency_matrix(enron)
