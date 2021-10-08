@@ -24,4 +24,4 @@ title: HEART: Statistics and Data Science With Networks
 
 [Summary statistics](../assets/HEART/summary_stats.R)
 
-[Community Detection examples](../assets/HEARt/community_detection.R)
+[Community Detection examples](../assets/HEART/community_detection.R)
