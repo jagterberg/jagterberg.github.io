@@ -80,11 +80,12 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Pub
 
 <h4>Current and Previous Collaborators</h4>
 <ul>
+<li><a href = "https://sites.google.com/view/jsulam">Jeremias Sulam</a></li>
 <li><a href = "https://alyakin314.github.io/">Anton Alyakin</a></li>
 <li><a href = "https://engineering.jhu.edu/ams/faculty/zachary-lubberts/">Zachary Lubberts</a></li>
 <li><a href = "https://jcape1.github.io/">Joshua Cape</a></li>
 <li><a href = "https://minh-tang.github.io/">Minh Tang</a></li>
-<li><a href = "http://people.math.umass.edu/~lyzinski/">Vince Lyzinski</a></li>
+<li><a href = "https://www.math.umd.edu/~vlyzinsk/">Vince Lyzinski</a></li>
 <li><a href = "http://www.cis.jhu.edu/~parky/">Youngser Park</a></li>
 <li><a href = "https://wsb.wisc.edu/directory/faculty/marjorie-rosenberg">Margie Rosenberg</a></li>
 </ul>
