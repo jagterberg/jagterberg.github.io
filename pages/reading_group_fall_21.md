@@ -6,6 +6,7 @@ The google sheet of the list of papers and presenters is [here](https://docs.goo
 
 | Date                     ||Presenter ||Paper Title and Link | 
 | :--------               | |    :---------   ||  :---------   |
+| 10/29/2021		|| No Meeting 	|| 	|
 |10/22/2021		|| Soledad Villar || [Invariant and Equivariant graph networks](https://arxiv.org/abs/1812.09902) |
 |10/15/2021		|| Ziqing Xu	|| [Near-Optimal bounds for Phase Synchronization](https://arxiv.org/pdf/1703.06605.pdf) |
 |10/8/2021		|| Teresa Huang	|| [Generalization in Deep Learning](https://arxiv.org/abs/1710.05468) |

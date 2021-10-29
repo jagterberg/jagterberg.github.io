@@ -80,6 +80,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Pub
 
 <h4>Current and Previous Collaborators</h4>
 <ul>
+<li><a href = "https://jesus-arroyo.github.io/">Jesús Arroyo</a></li>
 <li><a href = "https://sites.google.com/view/jsulam">Jeremias Sulam</a></li>
 <li><a href = "https://alyakin314.github.io/">Anton Alyakin</a></li>
 <li><a href = "https://engineering.jhu.edu/ams/faculty/zachary-lubberts/">Zachary Lubberts</a></li>
