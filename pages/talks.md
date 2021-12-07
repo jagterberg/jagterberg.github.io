@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 <ul>
+<li><b>"From RDPGs to General Signal Plus Noise Models"</b><br />
+Guest Lecture for 553.742 Statistical Inference on Graphs, JHU, 12/6/2021
+</li>
+<br />
 <li><b>“Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence”</b><br />
 Applied Math and Statistics Student Seminar, JHU, 9/21/2021
 </li>
