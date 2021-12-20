@@ -6,7 +6,7 @@ title: Research
 <ul>
 <li>Statistical Network Analysis</li>
 <li>High-dimensional Statistics</li>
-<li>Spectral Perturbation Theory and Matrix Analysis</li>
+<li>Spectral Methods</li>
 <li>Mathematical Data Science</li>
 <li>Nonparametric Statistics</li>
 </ul>
@@ -19,7 +19,7 @@ title: Research
 <a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a>.
 </li><br />
 <li><b>Valid Two-Sample Graph Testing via Optimal Transport Procrustes and Multiscale Graph Correlation: Applications in Connectomics</b><br />
-Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Accepted to <i>STAT</i>, 2021.
+Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Published in <i>Stat</i>, 2021.
 <br />
 <a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a>.
 </li><br />
@@ -27,7 +27,7 @@ Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 (Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
 (<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
-<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
+<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a><a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.429">[Publisher Site]</a>.
 </li><br />
 <li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
 Vertices</b><br />

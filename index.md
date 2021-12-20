@@ -27,9 +27,9 @@ description: Graduate Student at Johns Hopkins
 
 I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor 
 [Carey Priebe](https://www.ams.jhu.edu/~priebe/). I am broadly interested in the analysis of algorithms and statistical models for networks and random matrices. 
-You can read about some of my research [here](/pages/research.html).  My research has been supported through the [Counselman Fellowship](https://engineering.jhu.edu/ams/fellowship-information/)
-and the [MINDS Fellowsip](https://www.minds.jhu.edu/people/#tripods-fellows), and as of Spring 2021 I am 
-an [AMS Teaching Fellow](https://engineering.jhu.edu/ams/teaching-fellows-program/).  
+You can read about some of my research [here](https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/) or on my research page
+[here](/pages/research.html).  My research has been supported through the [Counselman Fellowship](https://engineering.jhu.edu/ams/fellowship-information/)
+and the [MINDS Fellowsip](https://www.minds.jhu.edu/people/#tripods-fellows), and as of Spring 2021 I am an [AMS Teaching Fellow](https://engineering.jhu.edu/ams/teaching-fellows-program/).  
 
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).  
