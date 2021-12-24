@@ -21,13 +21,13 @@ title: Research
 <li><b>Valid Two-Sample Graph Testing via Optimal Transport Procrustes and Multiscale Graph Correlation: Applications in Connectomics</b><br />
 Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Published in <i>Stat</i>, 2021.
 <br />
-<a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a>.
+<a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a><a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.429">[Publisher Site]</a>.
 </li><br />
 <li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 (Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
 (<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
-<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a><a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.429">[Publisher Site]</a>.
+<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
 </li><br />
 <li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
 Vertices</b><br />

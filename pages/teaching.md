@@ -4,6 +4,8 @@ title: Teaching
 ---
 <h4>Instructor (JHU)</h4>
 
+[553.283 Introduction to R (Intersession 2022)](r_2022.html)
+
 [HEART Course: Statistics and Data Science with Networks (Fall 2021)](HEART_2021.html)
 
 [Master's Orientation 2021](masters2021.html)
