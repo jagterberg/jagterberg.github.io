@@ -119,7 +119,7 @@ waiting
 detach(geyser)
 
 getwd()
-setwd("C:/Users/joshu/Dropbox/Documents/Research/misc_and_old/website/jagterberg.github.io/assets/r_2021")
+setwd("C:/Users/joshu/Dropbox/Documents/Research/misc_and_old/website/jagterberg.github.io/assets/r_2022")
 getwd()
 
 dat <- read.table("train.csv", sep = ",")
