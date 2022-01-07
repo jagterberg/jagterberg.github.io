@@ -5,7 +5,7 @@ description: Graduate Student at Johns Hopkins
 ---
 <div class="container">
 	<div class = "span3">
-		<div style="text-align:center"><img src ="assets/pics/me_2022_cropped.jpeg"/>
+		<div style="text-align:center"><img src ="assets/pics/me_2022_cropped.jpg"/>
 		</div>
 	</div>
 	<div class = "span4">
