@@ -212,6 +212,8 @@ dnewdist <- function(x){
 pnewdist <- function(x){
   vals <- c(0,1,2)
   prob <- ifelse(x<0, 0, ifelse(x<1,.3,ifelse(x<2,.5,1)))
+  toreturn <- rep(0,length(x))
+  
   return(prob)
 }
 

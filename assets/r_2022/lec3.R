@@ -80,7 +80,8 @@ list_vs_sales + geom_point(col='red')
 
 plot_list_vs_sales = list_vs_sales + geom_point(col='red')
 plot_list_vs_sales + geom_smooth(method = 'lm')
-plot_list_vs_sales + geom_smooth()
+plot_list_vs_sales + geom_smooth()  + 
+  ggtitle("sales vs listings")
 
 midwest_state = ggplot(midwest, aes(x=state))
 midwest_state + geom_bar()
@@ -101,4 +102,5 @@ ggplot(dat, aes(listings,
                       lwd=month,col=month)) +
   geom_point() + #color already encoded in aes()
   guides() #add default legend (gradient for numerical data)
+  
 

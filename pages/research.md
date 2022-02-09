@@ -13,6 +13,11 @@ title: Research
 
 <h4>Preprints and Publications</h4>
 <ul>
+<li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms}</b><br />
+<i>Joshua Agterberg</i> and Jeremias Sulam, Accepted to <i>AISTATS</i>, 2022.
+<br />
+<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.
+</li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, Submitted, 2021.
 <br />
@@ -61,6 +66,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Pub
 
 <h4>Honors and Awards</h4>
 <ul>
+<li><b>Spring 2022</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
 <li><b>2021-Present</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Teaching Fellow</a></li>
 <li><b>Summer 2021</b> <a href="https://community.amstat.org/nonparametricstatisticssection/paper-awards">Best Presentation Award for JSM Student Competition in Nonparametric Statistics</a></li>
 <li><b>Spring 2021</b> <a href="https://imstat.org/2021/04/20/recipients-of-the-2021-ims-hannan-graduate-student-travel-awards-announced/">IMS Hannan Graduate Student Travel Award</a></li>
