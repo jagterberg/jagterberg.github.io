@@ -25,7 +25,7 @@ description: Graduate Student at Johns Hopkins
 <br/>
 <br/>
 
-I am a PhD student at Johns Hopkins in applied mathematics and statistics, advised by Professor 
+I am a PhD candidate (ABD) at Johns Hopkins in applied mathematics and statistics, advised by Professor 
 [Carey Priebe](https://www.ams.jhu.edu/~priebe/). I am broadly interested in the analysis of algorithms and statistical models for networks and random matrices. 
 You can read about some of my research [here](https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/) or on my research page
 [here](/pages/research.html).  My research has been supported through the [Counselman Fellowship](https://engineering.jhu.edu/ams/fellowship-information/)
