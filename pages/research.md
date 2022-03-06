@@ -11,7 +11,7 @@ title: Research
 <li>Nonparametric Statistics</li>
 </ul>
 
-<h4>Preprints and Publications</h4>
+<h4>Publications</h4>
 <ul>
 <li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms}</b><br />
 <i>Joshua Agterberg</i> and Jeremias Sulam, Accepted to <i>AISTATS</i>, 2022.
@@ -28,6 +28,23 @@ Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg
 <br />
 <a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a><a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.429">[Publisher Site]</a>.
 </li><br />
+<li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
+<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Published in <i>Electronic Journal  of Statistics</i>, 2020. <br />
+<a href="https://arxiv.org/abs/1905.01776">[arXiv]</a><a href="https://doi.org/10.1214/20-EJS1744">[Publisher Site]</a>.
+</li><br />
+<li><b>Social Determinant-Based Profiles of US Adults  with the Highest and Lowest  Health Expenditures Using Clusters
+</b> <br />
+Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Published in <i>North American Actuarial Journal</i>, 2020.<br />
+<a href="https://www.tandfonline.com/doi/full/10.1080/10920277.2020.1814819">[Publisher Site]</a>
+</li><br />
+<li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
+<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Published in <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
+<a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[Publisher Site]</a>.
+</li>
+</ul>
+
+<h4>Preprints</h4>
+<ul>
 <li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 (Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
@@ -46,22 +63,8 @@ Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted
 <li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
 Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted, 2020.<br />
 <a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a>.
-</li><br />
-<li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
-<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Published in <i>Electronic Journal  of Statistics</i>, 2020. <br />
-<a href="https://arxiv.org/abs/1905.01776">[arXiv]</a><a href="https://doi.org/10.1214/20-EJS1744">[Publisher Site]</a>.
-</li><br />
-<li><b>Social Determinant-Based Profiles of US Adults  with the Highest and Lowest  Health Expenditures Using Clusters
-</b> <br />
-Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Published in <i>North American Actuarial Journal</i>, 2020.<br />
-<a href="https://www.tandfonline.com/doi/full/10.1080/10920277.2020.1814819">[Publisher Site]</a>
-</li><br />
-<li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
-<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Published in <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
-<a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[Publisher Site]</a>.
 </li>
 </ul>
-
 
 
 <h4>Honors and Awards</h4>
