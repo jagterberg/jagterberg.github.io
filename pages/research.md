@@ -19,7 +19,7 @@ title: Research
 <a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.
 </li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, Submitted, 2021. <br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, Accepted to <i>IEEE Transactions on Information Theory</i>, 2022. <br />
 A recording of a talk covering this paper is available <a href = "https://www.youtube.com/watch?v=2E0Oyt0tA50&ab_channel=JHUMathematicalInstituteforDataScience">here</a>. <br />
 <a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a>.
 </li><br />
