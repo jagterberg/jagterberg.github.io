@@ -16,7 +16,7 @@ title: Research
 <li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms}</b><br />
 <i>Joshua Agterberg</i> and Jeremias Sulam, Accepted to <i>AISTATS</i>, 2022.
 <br />
-<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.
+<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a><a href = "https://ieeexplore.ieee.org/document/9733353">[Publisher Site]</a>.
 </li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, Accepted to <i>IEEE Transactions on Information Theory</i>, 2022. <br />
