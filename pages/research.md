@@ -16,12 +16,12 @@ title: Research
 <li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms}</b><br />
 <i>Joshua Agterberg</i> and Jeremias Sulam, Accepted to <i>AISTATS</i>, 2022.
 <br />
-<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a><a href = "https://ieeexplore.ieee.org/document/9733353">[Publisher Site]</a>.
+<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.
 </li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, Accepted to <i>IEEE Transactions on Information Theory</i>, 2022. <br />
 A recording of a talk covering this paper is available <a href = "https://www.youtube.com/watch?v=2E0Oyt0tA50&ab_channel=JHUMathematicalInstituteforDataScience">here</a>. <br />
-<a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a>.
+<a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a><a href = "https://ieeexplore.ieee.org/document/9733353">[Publisher Site]</a>.
 </li><br />
 <li><b>Valid Two-Sample Graph Testing via Optimal Transport Procrustes and Multiscale Graph Correlation: Applications in Connectomics</b><br />
 Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Published in <i>Stat</i>, 2021.
