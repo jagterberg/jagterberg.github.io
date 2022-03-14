@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 <ul>
+<li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
+<a href = "../assets/sparse_PCA_poster.png">AISTATS</a>, Virtual, 3/30/2022
+</li>
+<br />
 <li><b>"Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence"</b><br />
 <a href = "https://www.minds.jhu.edu/2022-tripods-winter-school-workshop-on-interplay-between-machine-learning-and-dynamical-systems/">TRIPODS Winter School on Interplay between Artificial Intelligence and Dynamical Systems</a>, JHU, 1/20/2022<br />
 Video recording available <a href = "https://www.youtube.com/watch?v=2E0Oyt0tA50&ab_channel=JHUMathematicalInstituteforDataScience">here</a>
