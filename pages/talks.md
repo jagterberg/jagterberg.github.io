@@ -4,6 +4,10 @@ title: Talks
 ---
 <ul>
 <li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
+Applied Math and Statistics Student Seminar, JHU, 4/19/2022
+</li>
+<br />
+<li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
 <a href = "../assets/sparse_PCA_poster.png">AISTATS</a>, Virtual, 3/30/2022
 </li>
 <br />
