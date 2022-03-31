@@ -6,6 +6,7 @@ title: Talks
 <li><b>"Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence"</b><br />
 <a href = "">Joint Statistical Meetings</a>, August, 2022 <br/>
 </li>
+<br />
 <li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
 Applied Math and Statistics Student Seminar, JHU, 4/19/2022
 </li>
