@@ -4,7 +4,7 @@ title: Talks
 ---
 <ul>
 <li><b>"Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence"</b><br />
-<a href = "">Joint Statistical Meetings</a>, August, 2022 <br/>
+<a href = "https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323612">Joint Statistical Meetings</a>, August, 2022 <br/>
 </li>
 <br />
 <li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
