@@ -14,31 +14,36 @@ title: Research
 <h4>Publications</h4>
 <ul>
 <li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms}</b><br />
-<i>Joshua Agterberg</i> and Jeremias Sulam, Accepted to <i>AISTATS</i>, 2022.
-<br />
+<i>Joshua Agterberg</i> and Jeremias Sulam, <br />
+<i>AISTATS</i>, 2022. <br />
 <a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.
 </li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, Accepted to <i>IEEE Transactions on Information Theory</i>, 2022. <br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, <br />
+<i>IEEE Transactions on Information Theory</i>, 2022+. <br />
 A recording of a talk covering this paper is available <a href = "https://www.youtube.com/watch?v=2E0Oyt0tA50&ab_channel=JHUMathematicalInstituteforDataScience">here</a>. <br />
 <a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a><a href = "https://ieeexplore.ieee.org/document/9733353">[Publisher Site]</a>.
 </li><br />
 <li><b>Valid Two-Sample Graph Testing via Optimal Transport Procrustes and Multiscale Graph Correlation: Applications in Connectomics</b><br />
-Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, Published in <i>Stat</i>, 2021.
+Jaewon Chung, Bijan Varjavand, Jesús Arroyo, Anton Alyakin, <i>Joshua Agterberg</i>, Minh Tang, Joshua Vogelstein, and Carey Priebe, <br />
+<i>Stat</i>, 2021.
 <br />
 <a href = "https://arxiv.org/abs/1911.02741">[arXiv]</a><a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.429">[Publisher Site]</a>.
 </li><br />
 <li><b>Vertex Nomination, Consistent Estimation, and Adversarial Modification</b> <br />
-<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, Published in <i>Electronic Journal  of Statistics</i>, 2020. <br />
+<i>Joshua Agterberg</i>, Youngser Park, Jonathan Larson, Chris White, Carey Priebe, and Vince Lyzinski, <br />
+<i>Electronic Journal  of Statistics</i>, 2020. <br />
 <a href="https://arxiv.org/abs/1905.01776">[arXiv]</a><a href="https://doi.org/10.1214/20-EJS1744">[Publisher Site]</a>.
 </li><br />
 <li><b>Social Determinant-Based Profiles of US Adults  with the Highest and Lowest  Health Expenditures Using Clusters
 </b> <br />
-Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, Published in <i>North American Actuarial Journal</i>, 2020.<br />
+Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, <br />
+<i>North American Actuarial Journal</i>, 2020.<br />
 <a href="https://www.tandfonline.com/doi/full/10.1080/10920277.2020.1814819">[Publisher Site]</a>
 </li><br />
 <li><b>Cluster Analysis Application to Identify Groups of Individuals with High Health Expenditures</b><br />  
-<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, Published in <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
+<i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, <br />
+<i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
 <a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[Publisher Site]</a>.
 </li>
 </ul>
