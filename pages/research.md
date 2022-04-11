@@ -13,7 +13,7 @@ title: Research
 
 <h4>Publications</h4>
 <ul>
-<li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms}</b><br />
+<li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms</b><br />
 <i>Joshua Agterberg</i> and Jeremias Sulam, <br />
 <i>AISTATS</i>, 2022. <br />
 <a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.
