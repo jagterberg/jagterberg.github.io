@@ -166,11 +166,13 @@ JB :
 
   #
 
- # analytics :
+  analytics :
 
- #   provider : false
+    provider : google
 
- google_analytics: UA-225933014-1
+    google :
+
+	tracking_id: UA-225933014-1
 
   # Settings for sharing helper.
 
