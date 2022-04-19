@@ -74,6 +74,7 @@ Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted,
 
 <h4>Honors and Awards</h4>
 <ul>
+<li><b>Summer 2022</b><a href ="https://engineering.jhu.edu/ams/research/probability-and-stochastic-processes/duncan-research-fund/">Acheson J. Duncan  for the Advancement of Research in Statistics Travel Award</a></li>
 <li><b>Spring 2022</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
 <li><b>2021-Present</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Teaching Fellow</a></li>
 <li><b>Summer 2021</b> <a href="https://community.amstat.org/nonparametricstatisticssection/paper-awards">Best Presentation Award for JSM Student Competition in Nonparametric Statistics</a></li>

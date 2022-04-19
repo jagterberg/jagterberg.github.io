@@ -3,6 +3,9 @@ layout: page
 title: Talks
 ---
 <ul>
+<li><b>"Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels"</b><br />
+<a href = "http://www.compstat2022.org/">COMPSTAT</a>, August, 2022<br/>
+</li>
 <li><b>"Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence"</b><br />
 <a href = "https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323612">Joint Statistical Meetings</a>, August, 2022 <br/>
 </li>
