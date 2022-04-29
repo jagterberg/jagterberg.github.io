@@ -13,6 +13,11 @@ title: Research
 
 <h4>Publications</h4>
 <ul>
+<li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
+Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman,<br />
+<i>Electronic Journal of Statistics</i>, 2022+. <br />
+<a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a>.
+</li><br />
 <li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms</b><br />
 <i>Joshua Agterberg</i> and Jeremias Sulam, <br />
 <i>AISTATS</i>, 2022. <br />
@@ -64,10 +69,6 @@ Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted
 <li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 <a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
-</li><br />
-<li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
-Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman, Submitted, 2020.<br />
-<a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a>.
 </li>
 </ul>
 
