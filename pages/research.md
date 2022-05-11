@@ -15,13 +15,13 @@ title: Research
 <ul>
 <li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
 Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman,<br />
-<i>Electronic Journal of Statistics</i>, 2022+. <br />
-<a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a>.
+<i>Electronic Journal of Statistics</i>, 2022. <br />
+<a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a><a href = "https://doi.org/10.1214/22-EJS2018">[Publisher Site]</a>.
 </li><br />
 <li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms</b><br />
 <i>Joshua Agterberg</i> and Jeremias Sulam, <br />
 <i>AISTATS</i>, 2022. <br />
-<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a>.<a href = "https://proceedings.mlr.press/v151/agterberg22a.html">[Publisher Site]</a>.
+<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a><a href = "https://proceedings.mlr.press/v151/agterberg22a.html">[Publisher Site]</a>.
 </li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, <br />
