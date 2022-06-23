@@ -11,6 +11,10 @@ title: Talks
 <a href = "https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323612">Joint Statistical Meetings</a>, August, 2022 <br/>
 </li>
 <br />
+<li><b>"Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels"</b><br />
+<a href = "https://sinm.network/">Statistical Inference on Network Models (NETSCI Satellite)</a>, July, 2022<br/>
+</li>
+<br />
 <li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
 Applied Math and Statistics Student Seminar, JHU, 4/19/2022
 </li>
