@@ -1,3 +1,7 @@
-theme :
+theme : minima
++ remote_theme: jekyll/minima
+
+plugins:
++ - jekyll-remote-theme
   
 name : twitter

@@ -169,6 +169,7 @@ JB :
     provider : google 
     google : 
         tracking_id : 'UA-225933014-1'
+  google_analytics: 'G-K6GE4MM21R'
   
   # Settings for sharing helper.
 
