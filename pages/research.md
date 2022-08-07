@@ -11,6 +11,25 @@ title: Research
 <li>Nonparametric Statistics</li>
 </ul>
 
+<h4>Preprints</h4>
+<ul>
+<li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
+(Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
+(<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
+<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
+</li><br />
+<li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
+Vertices</b><br />
+Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted, 2020.<br />
+<a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a>.
+</li><br />
+<li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
+<a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
+</li>
+</ul>
+
 <h4>Publications</h4>
 <ul>
 <li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
@@ -53,29 +72,11 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, <br
 </li>
 </ul>
 
-<h4>Preprints</h4>
-<ul>
-<li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
-<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
-(Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
-(<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
-<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
-</li><br />
-<li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
-Vertices</b><br />
-Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted, 2020.<br />
-<a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a>.
-</li><br />
-<li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
-<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
-<a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
-</li>
-</ul>
 
 
 <h4>Honors and Awards</h4>
 <ul>
-<li><b>Summer 2022</b><a href ="https://engineering.jhu.edu/ams/research/probability-and-stochastic-processes/duncan-research-fund/">Acheson J. Duncan  for the Advancement of Research in Statistics Travel Award</a></li>
+<li><b>Summer 2022</b> <a href ="https://engineering.jhu.edu/ams/research/probability-and-stochastic-processes/duncan-research-fund/">Acheson J. Duncan  for the Advancement of Research in Statistics Travel Award</a></li>
 <li><b>Spring 2022</b> <a href="https://www.minds.jhu.edu/awards/minds-data-science-fellowships/">MINDS Data Science Fellowship</a></li>
 <li><b>2021-Present</b> <a href="https://engineering.jhu.edu/ams/teaching-fellows-program/">Applied Mathematics and Statistics Teaching Fellow</a></li>
 <li><b>Summer 2021</b> <a href="https://community.amstat.org/nonparametricstatisticssection/paper-awards">Best Presentation Award for JSM Student Competition in Nonparametric Statistics</a></li>
@@ -96,6 +97,7 @@ Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted
 
 <h4>Current and Previous Collaborators</h4>
 <ul>
+<li><a href = "https://anruzhang.github.io/">Anru Zhang</a>/li>
 <li><a href = "https://jesus-arroyo.github.io/">Jesús Arroyo</a></li>
 <li><a href = "https://sites.google.com/view/jsulam">Jeremias Sulam</a></li>
 <li><a href = "https://alyakin314.github.io/">Anton Alyakin</a></li>
