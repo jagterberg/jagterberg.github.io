@@ -16,8 +16,7 @@ title: Teaching
 
 [Master's Orientation 2020](masters2020.html)
 
-
-[553.810 Probability and Statistics](../assets/RMT_notes.pdf) (Probability Theory III): This is a topics course in probability I co-led with another graduate student. (There is a mistake in the first half of these notes where I apply Weyl's inequality to a non-Hermitian matrix, but I think the argument goes through by taking real parts.)
+[553.810 Probability and Statistics](../assets/RMT_notes.pdf) (Notes on RMT for a topics course I co-created.) (There is a mistake in the first half of these notes where I apply Weyl's inequality to a non-Hermitian matrix, but I think the argument goes through by taking real parts.)
 
 [Master's Orientation 2019](fm2019.html)
 
