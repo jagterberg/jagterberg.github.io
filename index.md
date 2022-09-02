@@ -15,7 +15,6 @@ description: Graduate Student at Johns Hopkins
 		<a href="https://engineering.jhu.edu/">Whiting School of Engineering</a><br/>
           	<a href="https://www.jhu.edu/">Johns Hopkins University</a><br/>
 		<br/>
-		<a href="jagterberg.jhu.edu">Email</a><br/>
 		<a href="{{ BASE_PATH }}/assets/JoshuaAgterbergCV.pdf">CV</a><br/>
 		<a href = "https://github.com/jagterberg">github</a><br/>
 		<a href = "https://www.linkedin.com/in/joshuaagterberg/">LinkedIn</a><br/>
