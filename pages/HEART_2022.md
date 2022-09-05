@@ -8,9 +8,13 @@ title: HEART: Statistics and Data Science With Networks
 
 [Day 1 Slides](../assets/HEART2022/HEART_slides_day_1.pdf)
 
+[Day 2 Slides](../assets/HEART2022/HEART_slides_day_2.pdf)
+
 <h4>Code</h4>
 
 [Day 1 Harry Potter Code](../assets/HEART2022/harrypotter/hp.R)
+
+[Day 2 Code](../assets/HEART2022/day1.R)
 
 <h4>Data</h4>
 

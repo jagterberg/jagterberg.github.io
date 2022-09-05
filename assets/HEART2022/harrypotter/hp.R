@@ -4,7 +4,7 @@ hpgraph <- read.csv("relations.csv")
 
 #subset to enemies 
 hpgraph <- hpgraph[which(hpgraph$type == "-"),]
-A <- graph_from_data_frame(hpgraph,directed=FALSE)
+A <- as.undirected(graph_from_data_frame(hpgraph))
 components <- igraph::clusters(A, mode="weak")
 biggest_cluster_id <- which.max(components$csize)
 
