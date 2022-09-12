@@ -14,7 +14,7 @@ hpgraph <- hpgraph[which(hpgraph$type == "-"),]
 
 #now fill this in: we want to use the graph_from_data_frame function in 
 #igraph to get an adjacency matrix 
-#A <- 
+A <- graph
 
 #subset to largest connected component
 components <- igraph::clusters(A, mode="weak")
@@ -31,7 +31,7 @@ V(A)$charactername <- hpnames[match(names(V(A)),as.character(hpnames$id)),"name"
 
 #now we want to get the adjacency matrix from the graph 
 #adj.mat <- 
-View(as.matrix(adj.mat))
+View(as.matrix(as_adjacency_matrix(A)))
 rownames(adj.mat) <- V(A)$charactername
 colnames(adj.mat) <- V(A)$charactername
 View(as.matrix(adj.mat))
