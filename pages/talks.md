@@ -4,6 +4,10 @@ title: Talks
 ---
 <ul>
 <li><b>"Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels"</b><br />
+Applied Mathematics and Statistics Student Seminar, JHU, October, 2022<br/>
+</li>
+<br />
+<li><b>"Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels"</b><br />
 <a href = "http://www.compstat2022.org/">COMPSTAT</a>, August, 2022<br/>
 </li>
 <br />
