@@ -6,7 +6,7 @@ p <- .2
 #fill this in:
 # we want dat to be n observations of random bernoulli variables
 # with parameter ps
-#dat <- rbinom( ???? )
+dat <- rbinom( n,1,p )
 summary(dat)
 
 #to visualize the CLT, we need to do this lots of times
@@ -16,10 +16,10 @@ ntimes <- 1000
 xbars <- rep(0,ntimes)
 for (i in c(1:ntimes)) {
   #fill this in:
-  #dat <- rbinom()
+  dat <- rbinom(n,1,p)
   
   #fill this in: we want to store the mean of dat
-  #xbars[i] <- ???
+  xbars[i] <- mean(dat)
 }
 hist(xbars)
 
@@ -31,7 +31,7 @@ hist(xbars)
 rm(list= ls())
 
 #using the seq function, generate a sequence of n's from 40 to 200 by 40
-#ns <- 
+ns <- seq(40,200,40)
 p <- .2
 
 #the variance of the binomial
@@ -47,7 +47,7 @@ for (n in ns) {
   #we will store each output in a vector called temp
   # we need to i nitialize with zeros
   #fill this in:
-  #temp <- 
+  temp <- rep(0,ntimes)
   for (i in c(1:ntimes)) {
     xbar <- mean(rbinom(n,1,p))
     
@@ -56,7 +56,7 @@ for (n in ns) {
     
     #we now store nearlygaussian as the i'th element of the temp vector
     #fill in:
-    #
+    temp[i] <- nearlygaussian
   }
   
   #we have done this ntimes for this value of n, so we store it
@@ -111,7 +111,7 @@ for (n in ns) {
     
     A <- generate_adj_matrix_ER(p,n)
     phat <- mean(A[upper.tri(A)])
-    temp[reps] <- sqrt(n*(n-1)/2) * (phat - p)/sqrt(binom_var)
+    temp[reps] <-  phat
     
   }
   
@@ -128,7 +128,7 @@ dat <- data.frame(x = toPlot,n=as.factor(nsrepeated))
 #install.packages(ggplot2)
 library(ggplot2) 
 g <- ggplot(dat,aes(x=x)) + geom_histogram(bins=30,alpha=.8,aes(color=n,y=..density..,fill=n)) +
-  stat_function(fun=dnorm, args= list(mean=0,sd=1),lwd=1.1,linetype="dashed") +
+  stat_function(fun=dnorm, args= list(mean=p,sd=sqrt(binom_var/(n*(n-1)/2))),lwd=1.1,linetype="dashed") +
   facet_wrap(~n)
 g
 
@@ -152,7 +152,7 @@ generate_adj_matrix_SBM <- function(B,n,memberships) {
 }
 
 n <- 100
-B <- matrix(c(.8,.3,.3,.8),2,2)
+B <- matrix(c(.8,.6,.6,.8),2,2)
 B
 memberships <- c(rep(1,n/2),rep(2,n/2))
 A <- generate_adj_matrix_SBM(B,n,memberships)

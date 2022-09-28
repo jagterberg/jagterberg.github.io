@@ -20,9 +20,13 @@ title: HEART: Statistics and Data Science With Networks
 
 [Day 3 Code](../assets/HEART2022/day3.R)
 
+[Day 4 Code](../assets/HEART2022/day4.R)
+
+[Day 5 Code](../assets/HEART2022/day5.R)
+
 <h4>Data</h4>
 
-[Day 1 Harry Potter Network Data](../assets/HEART2022/harrypotter/relations.csv)
+[Harry Potter Network Data](../assets/HEART2022/harrypotter/relations.csv)
 
-[Day 1 Harry Potter Name Data](../assets/HEART2022/harrypotter/relations.csv)
+[Harry Potter Name Data](../assets/HEART2022/harrypotter/relations.csv)
 
