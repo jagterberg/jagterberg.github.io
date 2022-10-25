@@ -14,7 +14,7 @@ title: Research
 <h4>Preprints</h4>
 <ul>
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, Available upon request, 2022.<br />
+<i>Joshua Agterberg</i> and Anru Zhang, Available upon request, 2022.<br />
 </li><br />
 <li><b>An Overview of Ssymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape, Available upon request, 2022.<br />
