@@ -11,20 +11,21 @@ generate_adj_matrix_ER <- function(p,n) {
   return(A)
 }
 
-p <- 
+p <- .2
 n <- 100
 A <- generate_adj_matrix_ER(p,n)
 heatmap(A,symm = TRUE,Rowv=NA, Colv=NA,labRow=FALSE, labCol=FALSE, revC=TRUE)
 
 #examine degree (fill in):
-degs <- A %*% #why is this the degree?
+degs <- A %*% rep(1,n)#why is this the degree?
 hist(degs)     
 # what is the mean?
 # what is the standard deviation (approximately)?
 
-tris <- A%*% A
+tris <- A%*% A %*% A
+tridist <- diag(tris)
 heatmap(tris,symm=TRUE,Rowv=NA,Colv=NA,labRow=FALSE,labCol=FALSE,revC=TRUE)
-hist(tris)
+hist(tridist)
 
 #---------------------------------
 #SBM example
@@ -43,12 +44,12 @@ generate_adj_matrix_SBM <- function(B,n,memberships) {
   return(A)
 }
 
-n <- 100
+n <- 1000
 #play with these:
-a <- .8
-b <- .2
-c <- .4
-d <- .1
+a <- .08
+b <- .07
+c <- .1
+d <- .06
 B <- matrix(c(
   a,b,b,
   b,c,b,
@@ -65,7 +66,7 @@ heatmap(A,symm = TRUE,Rowv=NA, Colv=NA,labRow=FALSE, labCol=FALSE, revC=TRUE)
 
 #now look at a histogram of the degree of A
 #fill this in:
-degs <- A %*% 
+degs <- A %*% rep(1,n)
 hist(degs)
 
 #what is the approximate mean?
