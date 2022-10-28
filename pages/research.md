@@ -16,7 +16,7 @@ title: Research
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang, Available upon request, 2022.<br />
 </li><br />
-<li><b>An Overview of Ssymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
+<li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape, Available upon request, 2022.<br />
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />

@@ -12,6 +12,10 @@ title: HEART: Statistics and Data Science With Networks
 
 [Day 3 Slides](../assets/HEART2022/HEART_slides_day_3.pdf)
 
+[Matrix Supplement](../assets/HEART2022/HEART_slides_matrices_supplement.pdf)
+
+[Data Science Interlude](../assets/HEART2022/HEART_slides_interlude.pdf)
+
 <h4>Code</h4>
 
 [Day 1 Harry Potter Code](../assets/HEART2022/harrypotter/hp.R)
@@ -23,6 +27,12 @@ title: HEART: Statistics and Data Science With Networks
 [Day 4 Code](../assets/HEART2022/day4.R)
 
 [Day 5 Code](../assets/HEART2022/day5.R)
+
+[Day 6 Code](../assets/HEART2022/day6.R)
+
+[Day 7 Code](../assets/HEART2022/day7.R)
+
+[Day 8 Code](../assets/HEART2022/day8.R)
 
 <h4>Data</h4>
 
