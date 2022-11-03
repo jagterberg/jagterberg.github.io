@@ -40,3 +40,22 @@ title: HEART: Statistics and Data Science With Networks
 
 [Harry Potter Name Data](../assets/HEART2022/harrypotter/relations.csv)
 
+[Got S1 Name Data](../assets/HEART2022/got/got-s1-nodes.csv)
+
+[Got S1 Network Data](../assets/HEART2022/got/got-s1-edges.csv)
+
+[Got S2 Name Data](../assets/HEART2022/got/got-s2-nodes.csv)
+
+[Got S2 Network Data](../assets/HEART2022/got/got-s2-edges.csv)
+
+[Got S3 Name Data](../assets/HEART2022/got/got-s3-nodes.csv)
+
+[Got S3 Network Data](../assets/HEART2022/got/got-s3-edges.csv)
+
+[Got S4 Name Data](../assets/HEART2022/got/got-s4-nodes.csv)
+
+[Got S4 Network Data](../assets/HEART2022/got/got-s4-edges.csv)
+
+[Got S5 Name Data](../assets/HEART2022/got/got-s5-nodes.csv)
+
+[Got S5 Network Data](../assets/HEART2022/got/got-s5-edges.csv)

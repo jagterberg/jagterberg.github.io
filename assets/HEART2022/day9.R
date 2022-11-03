@@ -69,7 +69,7 @@ getElbows <- function(dat, n = 3, threshold = FALSE, plot = TRUE, main="", ...) 
 
 #first we read in all of the data:
 for (i in c(1:5)) {
-  eval(parse(text=paste0("gotname",i,"<-read.csv('got-s",i,"-nodes.csv')")))
+  eval(parse(text=paste0("gotname",i,"<-read.csv('https://jagterberg.github.io/assets/HEART2022/got/-s",i,"-nodes.csv')")))
   eval(parse(text=paste0("gotgraph",i,"<-read.csv('got-s",i,"-edges.csv')")))
   eval(parse(text=paste0("gotgraph",i,"$weight <- gotgraph",i,"$Weight")))
 }
