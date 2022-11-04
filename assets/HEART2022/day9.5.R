@@ -182,21 +182,14 @@ print("STOP! Now repeat for seasons 1-5 by changing the season argument above!")
 #multilayer analysis
 ####################################
 #list of different embedding dimensions
-Ks <- rep(0,5)
 weighted = TRUE
 
-if(weighted) {
-  A <- as_adjacency_matrix(As[[1]],attr= 'weight')
-} else {
-  A <- as_adjacency_matrix(As[[1]])
-}
-
-Ks <- rep(3,length(As))
+Ks <- rep(12,length(As))
 #we now embed each matrix
 #choose 3 arbitrarily
 Xhats <- list()
 normalize= FALSE #set to true if you think DCSBM
-for (i in c(1:5)) {
+for (i in c(1:length(As))) {
   if (weighted) {
     A <- as_adjacency_matrix(As[[i]],attr= 'weight')
   } else {
@@ -223,12 +216,12 @@ for (i in c(1:5)) {
 }
 
 Yhat <- Xhats[[1]]
-for ( i in c(2:5)) {
+for ( i in c(2:length(As))) {
   Yhat <- cbind(Yhat,Xhats[[i]])
 }
 
 getElbows(svd(Yhat)$d)
-Uhat <- irlba::irlba(Yhat,12)$u
+Uhat <- irlba::irlba(Yhat,31)$u
 
 dat <- as.data.frame(Uhat)
 dat$names <- rownames(A)
