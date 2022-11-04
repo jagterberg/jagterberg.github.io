@@ -36,7 +36,7 @@ title: HEART: Statistics and Data Science With Networks
 
 [Day 9 Code](../assets/HEART2022/day9.R)
 
-[Day 9.5 Code](../assets/HEART2022/day9.R)
+[Day 9.5 Code](../assets/HEART2022/day9.5.R)
 
 <h4>Data</h4>
 
