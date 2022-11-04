@@ -38,6 +38,8 @@ title: HEART: Statistics and Data Science With Networks
 
 [Day 9.5 Code](../assets/HEART2022/day9.5.R)
 
+[Day 9.5 Code](../assets/HEART2022/day9.55.R)
+
 <h4>Data</h4>
 
 [Harry Potter Network Data](../assets/HEART2022/harrypotter/relations.csv)

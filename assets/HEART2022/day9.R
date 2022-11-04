@@ -109,7 +109,7 @@ seasonadj <- as_adjacency_matrix(As[[season]],attr='weight')
 #embedding
 vals <- svd(seasonadj)
 getElbows(vals$d) 
-K <- 5 #can change this
+K <-10 #can change this
 embedding <- vals$u[,c(1:K)]
 normalize <- TRUE #set to false if no normalization
 if(normalize) {
