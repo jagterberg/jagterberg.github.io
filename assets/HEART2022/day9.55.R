@@ -154,13 +154,29 @@ print("STOP! Now repeat for seasons 1-5 by changing the season argument above!")
 #multilayer analysis
 ####################################
 #list of different embedding dimensions
-weighted = TRUE
+weighted = FALSE
 
-Ks <- rep(12,length(As))
+
+getElbows(svd(as_adjacency_matrix(As[[1]]))$d)
+K1 <- 20
+getElbows(svd(as_adjacency_matrix(As[[2]]))$d)
+K2 <- 19
+getElbows(svd(as_adjacency_matrix(As[[3]]))$d)
+K3 <- 23
+getElbows(svd(as_adjacency_matrix(As[[4]]))$d)
+K4 <- 29
+getElbows(svd(as_adjacency_matrix(As[[5]]))$d)
+K5 <- 24
+getElbows(svd(as_adjacency_matrix(As[[6]]))$d)
+K6 <- 25
+getElbows(svd(as_adjacency_matrix(As[[7]]))$d)
+K7 <- 26
+
+Ks <- c(K1,K2,K3,K4,K5,K6,K7)
 #we now embed each matrix
 #choose 3 arbitrarily
 Xhats <- list()
-normalize= FALSE #set to true if you think DCSBM
+normalize= TRUE #set to true if you think DCSBM
 for (i in c(1:length(As))) {
   if (weighted) {
     A <- as_adjacency_matrix(As[[i]],attr= 'weight')
@@ -177,8 +193,8 @@ for (i in c(1:length(As))) {
   if(normalize) {
     for (j in c(1:nrow(Xhats[[i]]))) {
       val <- sqrt(sum(Xhats[[i]][j,]^2))
-      if (val <- .0000000001) {
-        Xhats[[i]][j,] <- 1
+      if (val <= .0000000001) {
+        Xhats[[i]][j,] <- 0
       } else {
         Xhats[[i]][j,] <- Xhats[[i]][j,]/val
       }
@@ -193,7 +209,7 @@ for ( i in c(2:length(As))) {
 }
 
 getElbows(svd(Yhat)$d)
-Uhat <- irlba::irlba(Yhat,14)$u
+Uhat <- irlba::irlba(Yhat,4)$u
 
 dat <- as.data.frame(Uhat)
 dat$names <- rownames(A)
@@ -207,6 +223,10 @@ clust = clusts$classification
 dat$names[which(clust == 1)]
 dat$names[which(clust == 2)]
 dat$names[which(clust == 3)]
+dat$names[which(clust == 4)]
+dat$names[which(clust == 5)]
+dat$names[which(clust == 6)]
+dat$names[which(clust == 7)]
 
 
 

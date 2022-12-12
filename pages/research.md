@@ -20,7 +20,8 @@ title: Research
 <i>Joshua Agterberg</i> and Joshua Cape, Available upon request, 2022.<br />
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, Available upon request, 2022.<br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2022.<br />
+<a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
 </li><br />
 <li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
