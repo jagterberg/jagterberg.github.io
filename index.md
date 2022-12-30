@@ -25,6 +25,8 @@ description: Graduate Student at Johns Hopkins
 <br/>
 <br/>
 
+<b>I have just been informed that my JHU email has previously automatically blocked incoming email it identifies as spam. This should (hopefully) now be resolved. If you have tried to email me within the past two months and not gotten a response (particularly if your email is non-JHU), please feel free to email me again, or try my gmail, which is (first name last name) at gmail.</b>
+
 <b>I will be on the 2022-2023 academic job market.</b>
 
 I am a PhD candidate (ABD) at Johns Hopkins in applied mathematics and statistics, advised by Professor 
