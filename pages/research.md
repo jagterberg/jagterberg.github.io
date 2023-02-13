@@ -112,7 +112,7 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, <br
 <li><a href = "https://jesus-arroyo.github.io/">Jesús Arroyo</a></li>
 <li><a href = "https://sites.google.com/view/jsulam">Jeremias Sulam</a></li>
 <li><a href = "https://alyakin314.github.io/">Anton Alyakin</a></li>
-<li><a href = "https://engineering.jhu.edu/ams/faculty/zachary-lubberts/">Zachary Lubberts</a></li>
+<li><a href = "https://sites.google.com/view/zachary-lubberts/home?authuser=0">Zachary Lubberts</a></li>
 <li><a href = "https://jcape1.github.io/">Joshua Cape</a></li>
 <li><a href = "https://minh-tang.github.io/">Minh Tang</a></li>
 <li><a href = "https://www.math.umd.edu/~vlyzinsk/">Vince Lyzinski</a></li>
