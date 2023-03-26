@@ -32,7 +32,7 @@ I defended my PhD in applied mathematics and statistics from Johns Hopkins in Fe
 advised by Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). I am broadly interested in the analysis of algorithms and statistical models for networks and structured matrix and tensor data. 
 You can read about some of my research [here](https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/) or on my research page
 [here](/pages/research.html).  My PhD research was supported through the [Counselman Fellowship](https://engineering.jhu.edu/ams/fellowship-information/)
-and the [MINDS Fellowship](https://www.minds.jhu.edu/people/#tripods-fellows), and I while at Johns Hopkins I was an [AMS Teaching Fellow](https://engineering.jhu.edu/ams/teaching-fellows-program/).  
+and the [MINDS Fellowship](https://www.minds.jhu.edu/people/#tripods-fellows), and while at Johns Hopkins I was an [AMS Teaching Fellow](https://engineering.jhu.edu/ams/teaching-fellows-program/).  
 
 I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).  
