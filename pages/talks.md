@@ -2,7 +2,40 @@
 layout: page
 title: Talks
 ---
+<b>Slides of Recent Talks:</b>
 <ul>
+<li><a href = "{{ BASE_PATH }}/assets/tensors.pdf">"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</a></li>
+<li><a href = "{{ BASE_PATH }}/assets/defense.pdf">"Asymptotics and Statistical Inference in High-Dimensional Low-Rank Matrix Models"</a> (PhD defense)</li>
+<li><a href = "{{ BASE_PATH }}/assets/multilayerDCSBM.pdf">"Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels"</a></li>
+<li><a href = "{{ BASE_PATH }}/assets/entrywise.pdf">"Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence"</a></li>
+</ul>
+
+<b>Talks:</b>
+<ul>
+<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+Statistics Department Seminar, University of Illinois Urbana-Champaign, February, 2023<br/>
+</li>
+<br />
+<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+Statistics Department Seminar, University of California-Riverside, February, 2023<br/>
+</li>
+<br />
+<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+Statistics Department Seminar, University of Virginia, February, 2023<br/>
+</li>
+<br />
+<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<a href = "https://engineering.jhu.edu/ams/event/ams-weekly-seminar-phd-candidate-joshua-agterberg/">Applied Mathematics and Statistics Department Seminar</a>, Johns Hopkins University, January, 2023<br/>
+</li>
+<br />
+<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+Statistics Department Seminar, University of South Carolina, January, 2023<br/>
+</li>
+<br />
+<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+Statistics and Actuarial Science Department Seminar, University of Waterloo, December, 2022<br/>
+</li>
+<br />
 <li><b>"Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels"</b><br />
 Applied Mathematics and Statistics Student Seminar, JHU, October, 2022<br/>
 </li>
