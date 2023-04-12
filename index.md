@@ -5,7 +5,7 @@ description: Postdoctoral Researcher at the University of Pennsylvania
 ---
 <div class="container">
 	<div class = "span3">
-		<div style="text-align:center"><img src ="assets/pics/pic2.jpg"/>
+		<div style="text-align:center"><img src ="assets/pics/me_2023.jpg"/>
 		</div>
 	</div>
 	<div class = "span4">
