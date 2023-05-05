@@ -13,6 +13,10 @@ title: Research
 
 <h4>Preprints</h4>
 <ul>
+<li><b>Semisupervised regression in latent structure networks on unknown manifolds</b> <br />
+Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe, 2022.<br />
+<a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
+</li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang, 2022.<br />
 <a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
