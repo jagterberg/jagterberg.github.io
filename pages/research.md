@@ -13,16 +13,17 @@ title: Research
 
 <h4>Preprints</h4>
 <ul>
-<li><b>Semisupervised regression in latent structure networks on unknown manifolds</b> <br />
+<li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
+<i>Joshua Agterberg</i> and Joshua Cape, 2023.<br />
+<a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
+</li><br />
+<li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
 Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe, 2022.<br />
 <a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a>.
 </li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang, 2022.<br />
 <a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
-</li><br />
-<li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
-<i>Joshua Agterberg</i> and Joshua Cape, Available upon request, 2022.<br />
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2022.<br />
