@@ -18,15 +18,15 @@ title: Research
 <a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
 </li><br />
 <li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
-Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe, 2022.<br />
+Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe, 2023.<br />
 <a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a>.
 </li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2022.<br />
+<i>Joshua Agterberg</i> and Anru Zhang, 2023.<br />
 <a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2022.<br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2023.<br />
 <a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
 </li><br />
 <li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
