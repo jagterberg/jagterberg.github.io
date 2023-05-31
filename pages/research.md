@@ -9,10 +9,14 @@ title: Research
 <li>Spectral Methods</li>
 <li>Mathematical Data Science</li>
 <li>Nonparametric Statistics</li>
+<li>Nonconvex Optimization</li>
 </ul>
 
 <h4>Preprints</h4>
 <ul>
+<li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
+<i>Joshua Agterberg</i>, In progress. (Draft available upon request; feedback solicited if interested.)<br />
+</li><br />
 <li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape, 2023.<br />
 <a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
