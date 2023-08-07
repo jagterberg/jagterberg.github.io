@@ -12,27 +12,35 @@ title: Talks
 
 <b>Talks:</b>
 <ul>
-<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
+<a href = "https://brinmrc.umd.edu/programs/workshops/fall23/fall23-workshop-statistics.html">Statistical Inference on Networks and High-Dimensional Data</a>, University of Maryland, October, 2023<br/>
+</li>
+<br />
+<li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
+<a href = "https://sites.google.com/view/tripods-postdoc-workshop/home?authuser=0">TRIPODS Postdoc Workshop</a>, University of Chicago, August, 2023<br/>
+</li>
+<br />
+<li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
 Statistics Department Seminar, University of Illinois Urbana-Champaign, February, 2023<br/>
 </li>
 <br />
-<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
 Statistics Department Seminar, University of California-Riverside, February, 2023<br/>
 </li>
 <br />
-<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
 Statistics Department Seminar, University of Virginia, February, 2023<br/>
 </li>
 <br />
-<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
 <a href = "https://engineering.jhu.edu/ams/event/ams-weekly-seminar-phd-candidate-joshua-agterberg/">Applied Mathematics and Statistics Department Seminar</a>, Johns Hopkins University, January, 2023<br/>
 </li>
 <br />
-<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
 Statistics Department Seminar, University of South Carolina, January, 2023<br/>
 </li>
 <br />
-<li><b>"Estimating Higher-Order Mixed Membserships via the Two to Infinity Tensor Perturbation Bound"</b><br />
+<li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
 Statistics and Actuarial Science Department Seminar, University of Waterloo, December, 2022<br/>
 </li>
 <br />
