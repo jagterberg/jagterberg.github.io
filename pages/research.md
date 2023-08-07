@@ -15,7 +15,8 @@ title: Research
 <h4>Preprints</h4>
 <ul>
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
-<i>Joshua Agterberg</i>, In progress. (Draft available upon request; feedback solicited if interested.)<br />
+<i>Joshua Agterberg</i>, 2023.<br />
+<a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
 <li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
 <i>Joshua Agterberg</i> and Anru Zhang, 2023. (Draft available upon request.)<br />
