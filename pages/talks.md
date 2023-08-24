@@ -21,7 +21,7 @@ title: Talks
 </li>
 <br />
 <li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
-<a href = "https://sites.google.com/view/tripods-postdoc-workshop/home?authuser=0">TRIPODS Postdoc Workshop</a>, University of Chicago, August, 2023<br/>
+<a href = "https://sites.google.com/view/tripods-postdoc-workshop/home?authuser=0">TRIPODS Postdoc Workshop</a>, Toyota Technological Institute of Chicago, August, 2023<br/>
 </li>
 <br />
 <li><b>"Estimating Higher-Order Mixed Memberships via the Two to Infinity Tensor Perturbation Bound"</b><br />
