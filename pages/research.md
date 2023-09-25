@@ -25,10 +25,6 @@ title: Research
 <i>Joshua Agterberg</i> and Joshua Cape, 2023.<br />
 <a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
 </li><br />
-<li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
-Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe, 2023.<br />
-<a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a>.
-</li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang, 2023.<br />
 <a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
@@ -56,6 +52,11 @@ Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted
 
 <h4>Publications</h4>
 <ul>
+<li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
+Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe,<br />
+<i>Applied Network Science</i>, 2023+. <br />
+<a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a>.
+</li><br />
 <li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
 Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman,<br />
 <i>Electronic Journal of Statistics</i>, 2022. <br />
