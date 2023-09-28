@@ -13,11 +13,15 @@ title: Talks
 <b>Talks:</b>
 <ul>
 <li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
-<a href = "https://brinmrc.umd.edu/programs/workshops/fall23/fall23-workshop-statistics.html">Stochastics Seminar</a>, Georgia Tech, November, 2023<br/>
+<a href = "https://math.gatech.edu/seminars-colloquia/series/stochastics-seminar/joshua-agterberg-20231102">Stochastics Seminar</a>, Georgia Tech, November, 2023<br/>
 </li>
 <br />
 <li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
 <a href = "https://brinmrc.umd.edu/programs/workshops/fall23/fall23-workshop-statistics.html">Statistical Inference on Networks and High-Dimensional Data</a>, University of Maryland, October, 2023<br/>
+</li>
+<br />
+<li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
+Applied Mathematics and Statistics Postdoc Seminar, Johns Hopkins, September, 2023<br/>
 </li>
 <br />
 <li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
