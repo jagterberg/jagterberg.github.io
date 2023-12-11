@@ -39,11 +39,6 @@ title: Research
 (<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
 <a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
 </li><br />
-<li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
-Vertices</b><br />
-Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted, 2020.<br />
-<a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a>.
-</li><br />
 <li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 <a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
@@ -52,6 +47,12 @@ Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe, Submitted
 
 <h4>Publications</h4>
 <ul>
+<li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
+Vertices</b><br />
+Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe,<br />
+<i>Applied Network Science</i>, 2023+. <br />
+<a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a>.
+</li><br />
 <li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
 Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe,<br />
 <i>Applied Network Science</i>, 2023+. <br />
