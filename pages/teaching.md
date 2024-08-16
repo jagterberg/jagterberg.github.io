@@ -2,6 +2,10 @@
 layout: page
 title: Teaching
 ---
+<h4>Instructor (UIUC)</h4>
+
+[Stat 410: Probability and Statistics II (Fall 2024)](stat_410.html)
+
 <h4>Instructor (JHU)</h4>
 
 [HEART Course: Statistics and Data Science with Networks (Fall 2022)](HEART_2022.html)

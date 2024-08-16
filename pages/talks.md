@@ -12,6 +12,15 @@ title: Talks
 
 <b>Talks:</b>
 <ul>
+<li><b>"A Precise High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing"</b><br />
+<a href = "https://www.birs.ca/events/2024/5-day-workshops/24w5297">Banff International Research Station Workshop on the Mathematics of Deep Learning</a>, Oaxaca, Mexico, June, 2024<br/>
+Video recording available <a href = "https://www.birs.ca/events/2024/5-day-workshops/24w5297/videos/watch/202406101430-Agterberg.html">here</a>
+</li>
+<br />
+<li><b>"Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications"</b><br />
+<a href = "https://statistics.as.virginia.edu/scheduled-colloquia">Statistics Department Seminar</a>, University of Virginia, April, 2024<br/>
+</li>
+<br />
 <li><b>"Estimation and Inference in the Tensor Mixed-Membership Blockmodel"</b><br />
 <a href = "https://math.gatech.edu/seminars-colloquia/series/stochastics-seminar/joshua-agterberg-20231102">Stochastics Seminar</a>, Georgia Tech, November, 2023<br/>
 </li>
