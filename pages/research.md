@@ -25,10 +25,6 @@ title: Research
 <i>Joshua Agterberg</i> and Joshua Cape, 2023.<br />
 <a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
 </li><br />
-<li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2023.<br />
-<a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
-</li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2023.<br />
 <a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
@@ -47,15 +43,20 @@ title: Research
 
 <h4>Publications</h4>
 <ul>
+<li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
+<i>Joshua Agterberg</i> and Anru Zhang,<br />
+<i>Journal of the American Statistical ASsociation,</i> to appear.
+<a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
+</li><br />
 <li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
 Vertices with Applications to Connectomics</b><br />
 Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe,<br />
-<i>Applied Network Science</i>, 2023+. <br />
+<i>Applied Network Science</i>, 2024. <br />
 <a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a><a href = "https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00607-x">[Publisher Site]</a>.
 </li><br />
 <li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
 Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe,<br />
-<i>Applied Network Science</i>, 2023+. <br />
+<i>Applied Network Science</i>, 2023. <br />
 <a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a><a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a><a href = "https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00598-9">[Publisher Site]</a>.
 </li><br />
 <li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
