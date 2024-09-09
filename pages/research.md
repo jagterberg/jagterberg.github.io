@@ -45,7 +45,7 @@ title: Research
 <ul>
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang,<br />
-<i>Journal of the American Statistical ASsociation,</i> to appear.
+<i>Journal of the American Statistical Association,</i> to appear.
 <a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
 </li><br />
 <li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
