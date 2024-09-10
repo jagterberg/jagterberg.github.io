@@ -57,7 +57,7 @@ Anton Alyakin, <i>Joshua Agterberg</i>, Hayden Helm, and Carey Priebe,<br />
 <li><b>Semisupervised Regression in Latent Structure Networks on Unknown Manifolds</b> <br />
 Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, and Carey E. Priebe,<br />
 <i>Applied Network Science</i>, 2023. <br />
-<a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a><a href = "https://arxiv.org/abs/2008.09434">[arXiv]</a><a href = "https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00598-9">[Publisher Site]</a>.
+<a href = "https://arxiv.org/abs/2305.02473">[arXiv]</a><a href = "https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00598-9">[Publisher Site]</a>.
 </li><br />
 <li><b>Spectral Graph Clustering via the Expectation-Solution Algorithm</b> <br />
 Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman,<br />
