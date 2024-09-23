@@ -12,6 +12,8 @@ title: Research
 <li>Nonconvex Optimization</li>
 </ul>
 
+Prospective PhD students, please read <a href = "phd_students.html">this</a>.
+
 <h4>Preprints</h4>
 <ul>
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
@@ -46,7 +48,7 @@ title: Research
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang,<br />
 <i>Journal of the American Statistical Association,</i> 2024+.<br />
-<a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a>.
+<a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a><a href = "https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2404265">[Publisher Site]</a>.
 </li><br />
 <li><b>Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of
 Vertices with Applications to Connectomics</b><br />

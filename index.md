@@ -26,6 +26,8 @@ I am an assistant professor in the [Department of Statistics](https://stat.illin
 You can read about some of my research [here](https://engineering.jhu.edu/ams/news/agterberg-analyzes-multilayer-networks-from-airports-to-hogwarts/), [here](https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/), or on my research page
 [here](/pages/research.html).  
 
+<b>Due to the large volume of emails I receive, I am unable to respond to inquiries from prospective PhD students</b>.  PhD admissions are centralized at UIUC, so if you are interested in doing research with me, please apply directly to the PhD program in Statiistics.  If you are already at UIUC, please read [this](/pages/phd_students.html).
+
 Previously, I spent one year as a postdoctoral researcher at the [University of Pennsylvania](https://www.upenn.edu/) working with [René Vidal](http://vision.jhu.edu/rvidal.html) and [Yuxin Chen](https://yuxinchen2020.github.io/index.html), affiliated with the [Innovation in Data Engineering and Science (IDEAS) Initiative](https://research.seas.upenn.edu/initiatives/data-science/), the [Department of Electrical and Systems Engineering](https://www.ese.upenn.edu/), and the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/). 
 
 I defended my PhD in applied mathematics and statistics from Johns Hopkins in February 2023, entitled "[Asymptotics and Statistical Inference in High-Dimensional Low-Rank Matrix Models](/assets/dissertation.pdf)," where I was
