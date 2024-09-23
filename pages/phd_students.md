@@ -2,9 +2,9 @@
 layout: page
 title: Prospective PhD Students
 ---
-<b>If you are not a PhD student at UIUC, admissions at UIUC are centralized, and I do not have control on applications.  You are, however, welcome to apply in the usual PhD application cycle.</b>
+<b>If you are not a PhD student at UIUC, admissions at UIUC are centralized, and I cannot comment on individual applications.  You are, however, welcome to apply in the usual PhD application cycle.</b>
 
-If you are a PhD student at UIUC, please read the information below, and feel free to send me an email with some of your interests.  
+If you are a PhD student at UIUC, please read the information below, and feel free to send me an email with some of your interests.
 
 <b>In order to succeed in a PhD with me, you must have a strong background in mathematics and statistics.</b><br />
 While you do not have to have the following background immediately upon embarking on research, the following references are most useful:
