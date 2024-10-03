@@ -16,6 +16,9 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Preprints</h4>
 <ul>
+<li><b>ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
+Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and René Vidal, 2024. <br />
+<a href = "https://arxiv.org/abs/2410.00645">[arXiv]</a>.
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.

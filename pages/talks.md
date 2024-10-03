@@ -12,6 +12,9 @@ title: Talks
 
 <b>Talks:</b>
 <ul>
+<li><"Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications"</b><br />
+<a href = "https://calendars.illinois.edu/detail/1439?eventId=33501616">Statistics Department Seminar</a>, University of Illinois Urbana-Champaign, September, 2024<br />
+</li>
 <li><b>"A Precise High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing"</b><br />
 <a href = "https://www.birs.ca/events/2024/5-day-workshops/24w5297">Banff International Research Station Workshop on the Mathematics of Deep Learning</a>, Oaxaca, Mexico, June, 2024<br/>
 Video recording available <a href = "https://www.birs.ca/events/2024/5-day-workshops/24w5297/videos/watch/202406101430-Agterberg.html">here</a>
