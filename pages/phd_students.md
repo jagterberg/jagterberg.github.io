@@ -31,7 +31,7 @@ Potential areas of research are:
 <li>Spectral methods (<a href ="https://arxiv.org/abs/2212.05053">this</a>,<a href ="https://arxiv.org/abs/2308.02480">this</a>, or <a href ="https://arxiv.org/abs/2212.08642">this</a>)  </li>
 <li>PCA/Covariance Estimation (<a href ="https://arxiv.org/abs/2308.02480">this</a> or <a href ="https://arxiv.org/abs/2202.04061">this</a>)  </li>
 <li>Optimization for matrices and tensors (e.g., <a href ="https://arxiv.org/abs/2212.08642">this</a>, but more coming soon!)  </li>
-<li>Precise statistical guarantees for matrix-valued data (<a href ="https://arxiv.org/abs/2308.02480">this</a> or <a href ="">this</a>, but more are coming soon!) 
+<li>Precise statistical guarantees for matrix-valued data (<a href ="https://arxiv.org/abs/2308.02480">this</a> or <a href ="https://arxiv.org/abs/2410.06381">this</a>, but more are coming soon!) 
 </li>
 </ul>
 I am also open to students with ideas that may align with my interests.  I have also recently developed an interest in exact asymptotics for high-dimensional regression and classification motivated by problems in machine learning. 

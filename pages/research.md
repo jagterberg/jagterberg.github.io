@@ -16,6 +16,10 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Preprints</h4>
 <ul>
+<li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
+<i>Joshua Agterberg</i> and Anru Zhang, 2024. <br />
+<a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
+</li><br />
 <li><b>ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
 Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and Ren√© Vidal, 2024. <br />
 <a href = "https://arxiv.org/abs/2410.00645">[arXiv]</a>.
@@ -23,9 +27,6 @@ Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and Ren√
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
-</li><br />
-<li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2023. (Draft available upon request.)<br />
 </li><br />
 <li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape, 2023.<br />

@@ -12,7 +12,7 @@ title: Talks
 
 <b>Talks:</b>
 <ul>
-<li><"Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications"</b><br />
+<li><b>"Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications"</b><br />
 <a href = "https://calendars.illinois.edu/detail/1439?eventId=33501616">Statistics Department Seminar</a>, University of Illinois Urbana-Champaign, September, 2024<br />
 </li>
 <li><b>"A Precise High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing"</b><br />
