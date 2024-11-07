@@ -20,6 +20,10 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <i>Joshua Agterberg</i> and Anru Zhang, 2024. <br />
 <a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
 </li><br />
+<li><b>A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks</b><br />
+Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, and René Vidal, 2024.<br />
+<a href = "https://arxiv.org/abs/2411.02767">[arXiv]</a>.
+</li><br />
 <li><b>ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
 Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and René Vidal, 2024. <br />
 <a href = "https://arxiv.org/abs/2410.00645">[arXiv]</a>.
