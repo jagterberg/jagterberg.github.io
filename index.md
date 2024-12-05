@@ -22,6 +22,8 @@ description: Assistant Professor at UIUC
 <br/>
 <br/>
 
+[Getting to know Joshua Agterberg](https://stat.illinois.edu/news/2024-12-02t162220/faculty-profile-getting-know-joshua-agterberg)
+
 I am an assistant professor in the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I am broadly interested in the analysis of algorithms and statistical models for networks and structured matrix and tensor data. 
 You can read about some of my research [here](https://engineering.jhu.edu/ams/news/agterberg-analyzes-multilayer-networks-from-airports-to-hogwarts/), [here](https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/), or on my research page
 [here](/pages/research.html).  
