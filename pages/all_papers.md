@@ -34,10 +34,6 @@ Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and Ren√
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
-<li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
-<i>Joshua Agterberg</i> and Joshua Cape, 2023.<br />
-<a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
-</li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Jes√∫s Arroyo, 2023.<br />
 <a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
@@ -56,6 +52,11 @@ Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and Ren√
 
 <h4>Publications</h4>
 <ul>
+<li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
+<i>Joshua Agterberg</i> and Joshua Cape,<br />
+<i>Statistical Science,</i> To Appear.<br />
+<a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
+</li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang,<br />
 <i>Journal of the American Statistical Association,</i> 2024+.<br />
