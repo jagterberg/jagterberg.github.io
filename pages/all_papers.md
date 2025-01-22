@@ -22,14 +22,6 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <i>Joshua Agterberg</i> and Anru Zhang, 2024. <br />
 <a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
 </li><br />
-<li><b>A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks</b><br />
-Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, and René Vidal, 2024.<br />
-<a href = "https://arxiv.org/abs/2411.02767">[arXiv]</a>.
-</li><br />
-<li><b>ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
-Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and René Vidal, 2024. <br />
-<a href = "https://arxiv.org/abs/2410.00645">[arXiv]</a>.
-</li><br />
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
@@ -50,7 +42,7 @@ Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and Ren�
 </li>
 </ul>
 
-<h4>Publications</h4>
+<h4>Journal Publications</h4>
 <ul>
 <li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape,<br />
@@ -77,11 +69,6 @@ Aranyak Acharyya, <i>Joshua Agterberg</i>, Michael W. Trosset, Youngser Park, an
 Zachary Pisano, <i>Joshua Agterberg</i>, Carey Priebe, Daniel Naiman,<br />
 <i>Electronic Journal of Statistics</i>, 2022. <br />
 <a href = "https://arxiv.org/abs/2003.13462">[arXiv]</a><a href = "https://doi.org/10.1214/22-EJS2018">[Publisher Site]</a>.
-</li><br />
-<li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms</b><br />
-<i>Joshua Agterberg</i> and Jeremias Sulam, <br />
-<i>AISTATS</i>, 2022. <br />
-<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a><a href = "https://proceedings.mlr.press/v151/agterberg22a.html">[Publisher Site]</a>.
 </li><br />
 <li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, <br />
@@ -110,6 +97,25 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, <br
 <i>Joshua Agterberg</i>, Fanghao Zhong, Richard Crabb, and Margie Rosenberg, <br />
 <i>Health Services and Outcomes Research Methodology</i>, 2020.<br /> 
 <a href="https://link.springer.com/article/10.1007/s10742-020-00214-8">[Publisher Site]</a>.
+</li>
+</ul>
+
+<h4>Peer-Reviewed Conference Publications</h4>
+<ul>
+<li><b>A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks</b><br />
+Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, and René Vidal,<br />
+<i>AISTATS,</i> 2025.<br />
+<a href = "https://arxiv.org/abs/2411.02767">[arXiv]</a>.
+</li><br />
+<li><b>ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
+Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and René Vidal,<br />
+<i>ICLR,</i> 2025. <br />
+<a href = "https://arxiv.org/abs/2410.00645">[arXiv]</a>.
+</li><br />
+<li><b>Entrywise Recovery Guarantees for Sparse PCA via Sparsistent Algorithms</b><br />
+<i>Joshua Agterberg</i> and Jeremias Sulam, <br />
+<i>AISTATS</i>, 2022. <br />
+<a href = "https://arxiv.org/abs/2202.04061">[arXiv]</a><a href = "https://proceedings.mlr.press/v151/agterberg22a.html">[Publisher Site]</a>.
 </li>
 </ul>
 
