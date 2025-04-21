@@ -102,12 +102,15 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, <br
 
 <h4>Peer-Reviewed Conference Publications</h4>
 <ul>
+<li><b>Nonconvex Linear System Identification with Minimal State Representation</b><br />
+Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, Ingvar Ziemann, and René Vidal,<br />
+<i>Learning For Dynamics and Control (L4DC)},</i> 2025. <br />
 <li><b>A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks</b><br />
 Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, and René Vidal,<br />
 <i>AISTATS,</i> 2025.<br />
 <a href = "https://arxiv.org/abs/2411.02767">[arXiv]</a>.
 </li><br />
-<li><b>ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
+<li><b>TSVD: Bridging Theory and Practice in Continual Learning with Pre-Trained Models</b><br />
 Liangzu Peng, Juan Elenter, <i>Joshua Agterberg</i>, Alejandro Ribeiro, and René Vidal,<br />
 <i>ICLR,</i> 2025. <br />
 <a href = "https://arxiv.org/abs/2410.00645">[arXiv]</a>.
