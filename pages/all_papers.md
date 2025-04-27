@@ -26,10 +26,6 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
-<li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2023.<br />
-<a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
-</li><br />
 <li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 (Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
@@ -44,6 +40,11 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Journal Publications</h4>
 <ul>
+<li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,.<br />
+<i>Journal of the American Statistical Association,</i> To Appear.<br />
+<a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
+</li><br />
 <li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape,<br />
 <i>Statistical Science,</i> To Appear.<br />

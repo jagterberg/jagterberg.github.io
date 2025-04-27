@@ -27,7 +27,8 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo, 2023.<br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,.<br />
+<i>Journal of the American Statistical Association,</i> 2024+.<br />
 <a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
 </li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
