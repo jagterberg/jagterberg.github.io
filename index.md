@@ -24,7 +24,7 @@ description: Assistant Professor at UIUC
 
 
 
-I am an assistant professor in the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I am broadly interested in the analysis of algorithms and statistical models for networks and structured matrix and tensor data. You can read more about my research on my [research page](../research.html), [here](https://engineering.jhu.edu/ams/news/agterberg-analyzes-multilayer-networks-from-airports-to-hogwarts/), or [here](https://stat.illinois.edu/news/2024-12-02t162220/faculty-profile-getting-know-joshua-agterberg).  I am also a member of [Math Alliance](https://www.mathalliance.org/).
+I am an assistant professor in the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I am broadly interested in the analysis of algorithms and statistical models for networks and structured matrix and tensor data. You can read more about my research on my [research page](./pages/research.html), [here](https://engineering.jhu.edu/ams/news/agterberg-analyzes-multilayer-networks-from-airports-to-hogwarts/), or [here](https://stat.illinois.edu/news/2024-12-02t162220/faculty-profile-getting-know-joshua-agterberg).  I am also a member of [Math Alliance](https://www.mathalliance.org/).
 
 Due to the large volume of emails I receive, I am unable to respond to inquiries from prospective PhD students.  PhD admissions are centralized at UIUC, so if you are interested in doing research with me, please apply directly to the PhD program in Statistics.  If you are already at UIUC, please read [this](/pages/phd_students.html).
 
