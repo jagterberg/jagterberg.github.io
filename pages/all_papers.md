@@ -105,7 +105,8 @@ Fanghao Zhong, Margie Rosenberg, <i>Joshua Agterberg</i>, and Richard Crabb, <br
 <ul>
 <li><b>Nonconvex Linear System Identification with Minimal State Representation</b><br />
 Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, Ingvar Ziemann, and René Vidal,<br />
-<i>Learning For Dynamics and Control (L4DC)},</i> 2025. <br />
+<i>Learning For Dynamics and Control (L4DC)},</i> 2025.
+</li><br />
 <li><b>A Convex Relaxation Approach to Generalization Analysis for Parallel Positively Homogeneous Networks</b><br />
 Uday Kiran Reddy Tadipatri, Benjamin D. Haeffele, <i>Joshua Agterberg</i>, and René Vidal,<br />
 <i>AISTATS,</i> 2025.<br />
