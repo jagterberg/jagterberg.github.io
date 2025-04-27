@@ -31,4 +31,4 @@ Due to the large volume of emails I receive, I am unable to respond to inquiries
 Previously, I spent one year as a postdoctoral researcher at the [University of Pennsylvania](https://www.upenn.edu/) working with [René Vidal](http://vision.jhu.edu/rvidal.html) and [Yuxin Chen](https://yuxinchen2020.github.io/index.html). I defended my PhD in applied mathematics and statistics from Johns Hopkins in February 2023, and my dissertation can be found "[here](/assets/dissertation.pdf)." My advisor ws Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).  I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).  
 
-In my free time I enjoy trail running and lifting weights.  Ask me to run with you if you see me at a conference!
+In my free time I enjoy trail and ultra running and lifting weights.  Ask me to run with you if you see me at a conference!
