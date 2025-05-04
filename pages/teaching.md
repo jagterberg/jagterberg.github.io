@@ -4,9 +4,17 @@ title: Teaching
 ---
 <h4>PhD Students Supervised</h4>
 
-...
+Rajdeep Brahma, UIUC PhD Statistics, 2024-Present (Co-advised with Yuguo Chen).
+
+Zhexu Jin, UIUC PhD Statistics, 2025-Present.
+
+Georgios Avdis, UIUC PhD Statistics 2024-Present.
 
 <h4>Instructor (UIUC)</h4>
+
+Stat 578: Topics in Statistics: Spectral Methods, Statistical Network Analysis, and Nonconvex Optimization (Fall 2025)
+
+Stat 511: Advanced Mathematical Statistics (Fall 2025)
 
 [Stat 410: Probability and Statistics II (Fall 2024)](stat_410.html)
 
