@@ -51,8 +51,6 @@ Applied Mathematics and Statistics Student Seminar, JHU, October, 2022<br/>
 Video recording available <a href = "https://www.youtube.com/watch?v=2E0Oyt0tA50&ab_channel=JHUMathematicalInstituteforDataScience">here</a> <br />
 Applied Math and Statistics Student Seminar, JHU, 9/21/2021 <br />
 </li>
-<li><b>"Community Detection in Multilayer Degree-Corrected Stochastic Blockmodels"</b><br />
-</li>
 <li><b>"Entrywise Guarantees for Sparse PCA via Sparsistent Algorithms"</b><br />
 Applied Math and Statistics Student Seminar, JHU, 4/19/2022<br />
 <a href = "../assets/sparse_PCA_poster.png">AISTATS</a>, Virtual, 3/30/2022
