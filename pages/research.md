@@ -20,7 +20,7 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <ul>
 <li><b>A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing</b><br />
 <i>Joshua Agterberg</i> and René Vidal, 2025. <br />
-<a href = "">[arXiv]</a>.
+<a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
 </li><br />
 <li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
 <i>Joshua Agterberg</i> and Anru Zhang, 2024. <br />
