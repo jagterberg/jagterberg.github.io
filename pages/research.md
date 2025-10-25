@@ -23,7 +23,7 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
 </li><br />
 <li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2024, <br />
+<i>Joshua Agterberg</i> and Anru Zhang, 2025, <br />
 <i>Annals of Statistics,</i> Accepted. <br />
 <a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
 </li><br />
