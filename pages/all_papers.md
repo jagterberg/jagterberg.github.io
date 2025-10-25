@@ -22,11 +22,6 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <i>Joshua Agterberg</i> and René Vidal, 2025. <br />
 <a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
 </li><br />
-<li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2025, <br />
-<i>Annals of Statistics,</i> Accepted. <br />
-<a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
-</li><br />
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
@@ -45,6 +40,15 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Journal Publications</h4>
 <ul>
+<li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
+<i>Joshua Agterberg</i> and Anru Zhang, 2025, <br />
+<i>Annals of Statistics,</i> Accepted. <br />
+<a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
+</li><br />
+<li><b>Discussion of "A Statistical Exploration of the Manifold Hypothesis" by Nick Whiteley, Annie Gray, and Patrick Rubin-Delanchy</b><br />
+<i>Joshua Agterberg</i>, 2025, <br />
+<i>Journal of the Royal Statistical Society, Series B,</i> Accepted. <br />
+</li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,.<br />
 <i>Journal of the American Statistical Association,</i> 2025.<br />
