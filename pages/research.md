@@ -23,7 +23,8 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
 </li><br />
 <li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2024. <br />
+<i>Joshua Agterberg</i> and Anru Zhang, 2024, <br />
+<i>Annals of Statistics,</i> Accepted. <br />
 <a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
 </li><br />
 <li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
@@ -31,21 +32,15 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,.<br />
-<i>Journal of the American Statistical Association,</i> 2025+.<br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,<br />
+<i>Journal of the American Statistical Association,</i> 2025.<br />
 <a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
 </li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
 <i>Joshua Agterberg</i> and Anru Zhang,<br />
-<i>Journal of the American Statistical Association,</i> 2025+.<br />
+<i>Journal of the American Statistical Association,</i> 2025.<br />
 <a href = "https://arxiv.org/abs/2212.08642">[arXiv]</a><a href = "https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2404265">[Publisher Site]</a>.
 </li><br />
-<li><b>Entrywise Estimation of Singular Vectors of Low-Rank Matrices with Heteroskedasticity and Dependence</b><br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Carey Priebe, <br />
-<i>IEEE Transactions on Information Theory</i>, 2022+. <br />
-A recording of a talk covering this paper is available <a href = "https://www.youtube.com/watch?v=2E0Oyt0tA50&ab_channel=JHUMathematicalInstituteforDataScience">here</a>. <br />
-<a href = "https://arxiv.org/abs/2105.13346">[arXiv]</a><a href = "https://ieeexplore.ieee.org/document/9733353">[Publisher Site]</a>.
-</li>
 </ul>
 
 <h4>Honors and Awards</h4>
