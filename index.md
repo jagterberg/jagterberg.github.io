@@ -31,4 +31,16 @@ Due to the large volume of emails I receive, I am unable to respond to inquiries
 Previously, I spent one year as a postdoctoral researcher at the [University of Pennsylvania](https://www.upenn.edu/) working with [René Vidal](http://vision.jhu.edu/rvidal.html) and [Yuxin Chen](https://yuxinchen2020.github.io/index.html). I defended my PhD in applied mathematics and statistics from Johns Hopkins in February 2023, and my dissertation can be found [here](/assets/dissertation.pdf). My advisor was Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/).  I graduated from the University of Wisconsin-Madison in 2017 with my Bachelor of Business Administration in actuarial
 science and mathematics.  While there, I was fortunate to be advised by [Margie Rosenberg](https://bus.wisc.edu/faculty/marjorie-rosenberg).  
 
-In my free time I enjoy trail and ultra running and lifting weights.  Assuming I'm not rehabbing an injury, ask me to run with you if you see me at a conference!
+In my free time I enjoy trail and ultra running and lifting weights. Ask me to run with you if you see me at a conference!
+
+<h5>Recent Updates</h5>
+<ul>
+<li> (November 2025) Excited to be giving a talk at Iowa State! </li>
+<li> (December 2025) Giving talks at [CMStatistic](https://www.cmstatistics.org//CFECMStatistics2025/index.php), the [NetStat workshop](https://sites.google.com/view/netstat25), and the [ICSA conference](https://www3.stat.sinica.edu.tw/joint2025/)</li>
+<li>(October 2025) My paper with Anru Zhang on [tensor inference](https://arxiv.org/abs/2410.06381) has been accepted to the <i>Annals of Statistics</i>!
+</li>
+<li> (October 2025) Happy to give a discussion of ["A Statistical Exploration of the Manifold Hypothesis"](https://arxiv.org/abs/2208.11665) at the Royal Statistical Society </li>
+</ul>
+
+
+
