@@ -18,6 +18,10 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Preprints</h4>
 <ul>
+<li><b>Concentration bounds on response-based vector embeddings of black-box generative models</b><br />
+Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Submitted, 2025. <br >
+<a href = "https://arxiv.org/abs/2511.08307">[arXiv]</a>.
+</li><br />
 <li><b>A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing</b><br />
 <i>Joshua Agterberg</i> and René Vidal, 2025. <br />
 <a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
