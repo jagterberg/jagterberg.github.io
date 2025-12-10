@@ -35,6 +35,7 @@ In my free time I enjoy trail and ultra running and lifting weights. Ask me to r
 
 <h5>Recent Updates</h5>
 <ul>
+<li> (December 2025) Congratulations Georgios on receiving the Gerondelis Foundation grant! </li>
 <li> (December 2025) Giving talks at <a href = "https://www.cmstatistics.org//CFECMStatistics2025/index.php">CMStatistics</a>, the <a href = "https://sites.google.com/view/netstat25">NetStat Workshop</a>, and the <a href = "https://www3.stat.sinica.edu.tw/joint2025/">ICSA conference</a></li>
 <li> (November 2025) Excited to be giving a talk at Iowa State! </li>
 <li>(October 2025) My paper with Anru Zhang on <a href = "https://arxiv.org/abs/2410.06381">tensor inference</a> has been accepted to the <i>Annals of Statistics</i>!
