@@ -52,6 +52,7 @@ Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Subm
 <li><b>Discussion of "A Statistical Exploration of the Manifold Hypothesis" by Nick Whiteley, Annie Gray, and Patrick Rubin-Delanchy</b><br />
 <i>Joshua Agterberg</i>, 2025, <br />
 <i>Journal of the Royal Statistical Society, Series B,</i> Accepted. <br />
+<a href = "https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag038/8428948">[Publisher Site]</a>.
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
 <i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,.<br />
