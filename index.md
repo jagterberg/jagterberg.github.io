@@ -34,7 +34,7 @@ science and mathematics.  While there, I was fortunate to be advised by [Margie 
 In my free time I enjoy trail and ultra running and lifting weights. Ask me to run with you if you see me at a conference!
 
 <h5>Recent Updates</h5>
-<ul>]
+<ul>
 <li> (March 2026) My paper with Minh Tang and Carey Priebe on <a href = "https://arxiv.org/abs/2012.09828">two-sample network testing</a> has been accepted to the <i>Electronic Journal of Statistics</i>!</li>
 <li> (January 2026) Gave a talk at the <a href = "https://www.imsi.institute/activities/recent-advances-in-random-networks/">IMSI Workshop on Recent Advances in Random Networks</a></li>
 <li> (December 2025) Congratulations Georgios on receiving the Gerondelis Foundation grant! </li>
