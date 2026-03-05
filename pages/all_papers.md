@@ -30,12 +30,6 @@ Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Subm
 <i>Joshua Agterberg</i>, 2023.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
-<li><b>Nonparametric Two-Sample Hypothesis Testing for Random Graphs with Negative and Repeated Eigenvalues</b> <br />
-<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
-(Selected as a finalist for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
-(<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
-<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
-</li><br />
 <li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
 <i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe, Submitted, 2020.<br />
 <a href = "https://arxiv.org/abs/2003.14250">[arXiv]</a>.
@@ -44,24 +38,30 @@ Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Subm
 
 <h4>Journal Publications</h4>
 <ul>
+<li><b>Nonparametric Two-Sample Hypothesis Testing for Low-Rank Random Graphs of Differing Sizes</b> <br />
+<i>Joshua Agterberg</i>, Minh Tang, and Carey Priebe,<br />
+<i>Electronic Journal of Statistics,</i> 2026+. <br />
+(<a href = "https://engineering.jhu.edu/ams/news/joshua-agterberg-best-presentation-nonparametric-statistics/">Won best presentation award</a> for the <a href = "https://community.amstat.org/nonparametricstatisticssection/paper-awards">Nonparametric Statistics Student Competition</a>, JSM 2021.)<br />
+<a href = "https://arxiv.org/abs/2012.09828">[arXiv]</a>.
+</li><br />
 <li><b>Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications</b><br />
-<i>Joshua Agterberg</i> and Anru Zhang, 2025, <br />
-<i>Annals of Statistics,</i> Accepted. <br />
+<i>Joshua Agterberg</i> and Anru Zhang,<br />
+<i>Annals of Statistics,</i> 2026+. <br />
 <a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
 </li><br />
 <li><b>Discussion of "A Statistical Exploration of the Manifold Hypothesis" by Nick Whiteley, Annie Gray, and Patrick Rubin-Delanchy</b><br />
 <i>Joshua Agterberg</i>, 2025, <br />
-<i>Journal of the Royal Statistical Society, Series B,</i> Accepted. <br />
+<i>Journal of the Royal Statistical Society, Series B,</i> 2026+. <br />
 <a href = "https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag038/8428948">[Publisher Site]</a>.
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />
-<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,.<br />
+<i>Joshua Agterberg</i>, Zachary Lubberts, and Jesús Arroyo,<br />
 <i>Journal of the American Statistical Association,</i> 2025.<br />
 <a href = "https://arxiv.org/abs/2212.05053">[arXiv]</a>.
 </li><br />
 <li><b>An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference</b> <br />
 <i>Joshua Agterberg</i> and Joshua Cape,<br />
-<i>Statistical Science,</i> 2025+.<br />
+<i>Statistical Science,</i> 2026+.<br />
 <a href = "https://arxiv.org/abs/2305.06353">[arXiv]</a>.
 </li><br />
 <li><b>Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound</b> <br />
