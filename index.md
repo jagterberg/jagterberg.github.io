@@ -35,7 +35,7 @@ In my free time I enjoy trail and ultra running and lifting weights. Ask me to r
 
 <h5>Recent Updates</h5>
 <ul>
-<li> (Summer 2026) I will be speaking at <a href = "https://sites.google.com/view/snab-workshop-2026/home">SNAB</a> in Hanoi, <a href = "https://easyconferences.eu/isnps2026/">ISNPS</a> in Thessaloniki, and <a href= "https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=7131">JSM</a> in Boston! PhD students Rajdeep and Zhexu will also be at JSM!
+<li> (Summer 2026) I will be speaking at <a href = "https://sites.google.com/view/snab-workshop-2026/home">SNAB</a> in Hanoi, <a href = "https://easyconferences.eu/isnps2026/">ISNPS</a> in Thessaloniki, and <a href= "https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=7131">JSM</a> in Boston! PhD students Rajdeep and Zhexu will also be at JSM!</li>
 <li> (April 2026) Congratulations Rajdeep on receiving the IMS Hannan Graduate Student Award!</li>
 <li> (March 2026) My paper with Minh Tang and Carey Priebe on <a href = "https://arxiv.org/abs/2012.09828">two-sample network testing</a> has been accepted to the <i>Electronic Journal of Statistics</i>!</li>
 <li> (January 2026) Gave a talk at the <a href = "https://www.imsi.institute/activities/recent-advances-in-random-networks/">IMSI Workshop on Recent Advances in Random Networks</a></li>
