@@ -27,8 +27,8 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 <i>Annals of Statistics,</i> Accepted. <br />
 <a href = "https://arxiv.org/abs/2410.06381">[arXiv]</a>.
 </li><br />
-<li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
-<i>Joshua Agterberg</i>, 2023.<br />
+<li><b>Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
+<i>Joshua Agterberg</i>, 2026.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
 <li><b>Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels</b> <br />

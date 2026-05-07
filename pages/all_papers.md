@@ -26,8 +26,8 @@ Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Subm
 <i>Joshua Agterberg</i> and René Vidal, 2025. <br />
 <a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
 </li><br />
-<li><b>Distributional Theory and Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
-<i>Joshua Agterberg</i>, 2023.<br />
+<li><b>Statistical Inference for Linear Functions of Eigenvectors with Small Eigengaps</b><br />
+<i>Joshua Agterberg</i>, 2026.<br />
 <a href = "https://arxiv.org/abs/2308.02480">[arXiv]</a>.
 </li><br />
 <li><b>On Two Distinct Sources of Nonidentifiability in Latent Position Random Graph Models</b> <br />
