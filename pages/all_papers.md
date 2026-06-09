@@ -18,8 +18,16 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Preprints</h4>
 <ul>
+<li><b>Statistically and Computationally Optimal Estimation and Inference of Common Subspaces</b><br />
+<i>Joshua Agterberg,</i> Submitted, 2026.<br />
+<a href = "https://arxiv.org/abs/2606.06483">[arXiv]</a>.
+</li><br />
+<li><b>Two-Sample Hypothesis Testing for Subspace Equality in Network Data</b><br />
+Rajdeep Brahma, <i>Joshua Agterberg</i>, Yuguo Chen, Submitted, 2026.<br />
+<a href = "https://arxiv.org/abs/2606.06482">[arXiv]</a>.
+</li><br />
 <li><b>Concentration bounds on response-based vector embeddings of black-box generative models</b><br />
-Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Submitted, 2025. <br >
+Aranyak Acharyya, <i>Joshua Agterberg,</i> Youngser Park, and Carey Priebe, Submitted, 2025. <br />
 <a href = "https://arxiv.org/abs/2511.08307">[arXiv]</a>.
 </li><br />
 <li><b>A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing</b><br />

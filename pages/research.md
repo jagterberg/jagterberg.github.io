@@ -18,6 +18,10 @@ Prospective PhD students, please read <a href = "phd_students.html">this</a>.
 
 <h4>Representative Papers</h4>
 <ul>
+<li<<b>Statistically and Computationally Optimal Estimation and Inference of Common Subspaces</b><br />
+<i>Joshua Agterberg</i>, 2026. <br />
+<a href = "https://arxiv.org/abs/2606.06483">[arXiv]</a>.
+</li><br />
 <li><b>A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing</b><br />
 <i>Joshua Agterberg</i> and René Vidal, 2025. <br />
 <a href = "https://arxiv.org/abs/2506.20659">[arXiv]</a>.
